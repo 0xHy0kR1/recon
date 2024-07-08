@@ -1,0 +1,15 @@
+GET https://m5-sydprod1.apply.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Set-Cookie: __cf_bm=Wdgj5FODUpY8Rc3C2ae__cCIOBznliJEv69Fahw0X0s-1720109604-1.0.1.1-SXMm.fkAgC7x.ozFVu7tT4YKC4IYn_8jdjhp2dGPvfP8DU4_u3eLKRgznqJbAOpghTMh_9wpbTw8JkdR.yWx0Q; path=/; expires=Thu, 04-Jul-24 16:43:24 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Vary: Accept-Encoding
+< Alt-Svc: h3=":443"; ma=86400
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Content-Type: text/html; charset=UTF-8
+< X-Frame-Options: SAMEORIGIN
+< Expires: Thu, 04 Jul 2024 16:13:39 GMT
+< Referrer-Policy: same-origin
+< Cache-Control: max-age=15
+< Server: cloudflare
+< Cf-Ray: 89e0670619693b61-BOM

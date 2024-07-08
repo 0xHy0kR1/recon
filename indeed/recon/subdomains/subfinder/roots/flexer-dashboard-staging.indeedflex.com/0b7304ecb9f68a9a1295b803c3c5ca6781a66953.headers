@@ -1,0 +1,12 @@
+GET https://flexer-dashboard-staging.indeedflex.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< Content-Type: text/html
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=qclX1yatvcK%2FxgWLBlK6riXggd%2Bt4Tps8787mR9kKYVhOd8sjf9no6LlNYVZl0mNBeiL7Tp4V4NtI5zfThxGsZTb561wOXc6jqjuWlvv1ezVKuW8%2Fll3XNp3QEBw66vutQIxNqUVj9E7XTMPlIIiLWVQrNBAk%2BoPaA%3D%3D"}],"group":"cf-nel","max_age":604800}
+< Server: cloudflare
+< Cf-Ray: 89e067010f922e2e-BOM
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Cf-Cache-Status: DYNAMIC

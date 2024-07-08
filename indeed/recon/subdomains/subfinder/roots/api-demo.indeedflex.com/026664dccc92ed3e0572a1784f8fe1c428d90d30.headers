@@ -1,0 +1,22 @@
+GET https://api-demo.indeedflex.com
+
+
+< HTTP/1.1 302 Found
+< Server: cloudflare
+< Referrer-Policy: strict-origin-when-cross-origin
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< Content-Type: text/html; charset=utf-8
+< X-Content-Type-Options: nosniff
+< Vary: Accept-Encoding, Origin
+< Cf-Cache-Status: DYNAMIC
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=JLtQTzWqYw0PIrljXw8wBfubHoZsH5Rckrhxh%2FdH1IKZFLFR0M9iSNSA6LadLu6etmQG97WPgxovYMls%2B2vIEr6TP1EPx86KXatbPLGZQn8%2B33AdjPrtkMNPrTQus6KfygWqxiDgOfCP"}],"group":"cf-nel","max_age":604800}
+< Cf-Ray: 89e06701cfa780b2-BOM
+< Location: https://api-demo.indeedflex.com/api/v2
+< X-Frame-Options: SAMEORIGIN
+< X-Runtime: 0.009454
+< Cache-Control: no-cache
+< X-Request-Id: a875dd9a-1af5-4322-bf8b-83cfbd5f4541
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< Date: Thu, 04 Jul 2024 16:13:25 GMT
+< X-Xss-Protection: 0
+< X-Permitted-Cross-Domain-Policies: none

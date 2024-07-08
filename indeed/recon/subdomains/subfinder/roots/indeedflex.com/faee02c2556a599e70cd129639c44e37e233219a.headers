@@ -1,0 +1,22 @@
+GET https://indeedflex.com
+
+
+< HTTP/1.1 200 OK
+< X-Powered-By: WP Engine
+< Link: <https://indeedflex.com/wp-json/>; rel="https://api.w.org/"
+< Link: <https://indeedflex.com/wp-json/wp/v2/pages/196>; rel="alternate"; type="application/json"
+< Link: <https://indeedflex.com/>; rel=shortlink
+< X-Cache-Group: normal
+< Alt-Svc: h3=":443"; ma=86400
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< Cf-Cache-Status: DYNAMIC
+< Cache-Control: max-age=600, must-revalidate
+< Server: cloudflare
+< Cf-Ray: 89e0671eb9643af5-BOM
+< Content-Type: text/html; charset=UTF-8
+< Vary: Accept-Encoding
+< Vary: Accept-Encoding
+< Vary: Accept-Encoding
+< Vary: Accept-Encoding,Cookie
+< X-Cacheable: SHORT
+< X-Cache: MISS

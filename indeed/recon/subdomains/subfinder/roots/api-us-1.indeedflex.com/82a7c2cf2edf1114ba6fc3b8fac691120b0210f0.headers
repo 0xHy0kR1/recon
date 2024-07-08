@@ -1,0 +1,22 @@
+GET https://api-us-1.indeedflex.com
+
+
+< HTTP/1.1 302 Found
+< Location: https://api-us-1.indeedflex.com/api/v2
+< X-Content-Type-Options: nosniff
+< X-Permitted-Cross-Domain-Policies: none
+< Server: cloudflare
+< Cf-Ray: 89e066fefc993a5d-BOM
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Referrer-Policy: strict-origin-when-cross-origin
+< Cf-Cache-Status: DYNAMIC
+< Cache-Control: no-cache
+< X-Request-Id: 19082d12-48af-41ad-a0b6-2ae7863e6ee7
+< X-Runtime: 0.014536
+< Vary: Accept-Encoding, Origin
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=es%2BgcyYM%2B2ErtnlUmgm3XNJzICkMYWypt%2FHr%2FnBdUBMew0LFRqE8whhkSGs2Q%2FagaYC6cmyOiLlCH4fpr75CN9WmPPqXZx61Uflrti6s8EAoPucORMUy6ypI8xnw8lVSMfVjtyZE1Y%2BY"}],"group":"cf-nel","max_age":604800}
+< Content-Type: text/html; charset=utf-8
+< X-Frame-Options: SAMEORIGIN
+< X-Xss-Protection: 0
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}

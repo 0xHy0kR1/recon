@@ -1,0 +1,12 @@
+GET https://link.news.indeedflex.com
+
+
+< HTTP/1.1 404 Not Found
+< Cf-Cache-Status: DYNAMIC
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Yvvg%2B15whI3GQoTIvH4XmrU%2FEPMsU0pvkuHFpXycMY%2BR808bBp%2FAVIxYL%2FPcX%2BekoQd%2FiR7ITQr7wUOdCgsZPOnuOkEPlO%2BkZGxGUBXFf9IX6jJVPBXMwD5iCqNS8WI9IQMJrsbcJ%2BA9Kw%3D%3D"}],"group":"cf-nel","max_age":604800}
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< Server: cloudflare
+< Cf-Ray: 89e067031cbb85ad-BOM
+< Date: Thu, 04 Jul 2024 16:13:25 GMT
+< Content-Type: text/html

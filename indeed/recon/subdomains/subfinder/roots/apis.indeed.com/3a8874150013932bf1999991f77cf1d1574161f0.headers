@@ -1,0 +1,18 @@
+GET https://apis.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Content-Type: text/html; charset=UTF-8
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=wdCd0akNQNoHLT8Dj9E7nqkfqo6W0xDzOEcfV7IvAsmyQFKWCha8M9XwGt2y6zTIPDKa0tUyMJf98PbVMkMFuwjk78WVmTxw%2Fqo7SXPountKxc%2B%2FRO%2Fr0QorGGhuuddS7w%3D%3D"}],"group":"cf-nel","max_age":604800}
+< Vary: Accept-Encoding
+< Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+< X-Content-Type-Options: nosniff
+< Cf-Ray: 89e06701da824710-BOM
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Expires: Thu, 04 Jul 2024 16:13:39 GMT
+< Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+< Set-Cookie: __cf_bm=TDcFLCWI36TCLAgFSyheD1VyQmPhq0anyfnzNC4OILw-1720109604-1.0.1.1-LqZN0Kirle4g_0eSaDYLA_Cfi3RxhSMCa5DrRB85By54oLOypeBKFjtBt4VAOchjVYnTg6yabF33BoIp9I8myw; path=/; expires=Thu, 04-Jul-24 16:43:24 GMT; domain=.apis.indeed.com; HttpOnly; Secure; SameSite=None
+< Server: cloudflare
+< X-Frame-Options: SAMEORIGIN
+< Referrer-Policy: same-origin
+< Cache-Control: max-age=15

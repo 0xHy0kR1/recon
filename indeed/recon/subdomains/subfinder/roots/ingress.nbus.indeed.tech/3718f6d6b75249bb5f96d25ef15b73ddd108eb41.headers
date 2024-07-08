@@ -1,0 +1,15 @@
+GET https://ingress.nbus.indeed.tech
+
+
+< HTTP/1.1 403 Forbidden
+< X-Amzn-Trace-Id: Root=1-6686ca25-15bcae9c00a0d54751c9f088
+< X-Cache: Error from cloudfront
+< X-Amz-Cf-Id: pwINnt3hgqlQ7E57kVvdNz_MiVujwiSCc-aQutvBS54r2Q6--J1tSg==
+< X-Amzn-Errortype: MissingAuthenticationTokenException
+< Date: Thu, 04 Jul 2024 16:13:25 GMT
+< X-Amzn-Requestid: f99c53a1-fa21-49d2-8720-d9222d369c2d
+< X-Amz-Apigw-Id: aZSF5HAjCYcEQgA=
+< Via: 1.1 ababe06b9094b514352052fc33461790.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: BOM54-P1
+< Content-Type: application/json
+< Content-Length: 42

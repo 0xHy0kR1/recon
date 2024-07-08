@@ -1,0 +1,15 @@
+GET https://xml-testing-tool.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Expires: Thu, 04 Jul 2024 16:13:39 GMT
+< Vary: Accept-Encoding
+< Cf-Ray: 89e067072a0c3a93-BOM
+< Alt-Svc: h3=":443"; ma=86400
+< Referrer-Policy: same-origin
+< Cache-Control: max-age=15
+< Set-Cookie: __cf_bm=UOmd4iT.lzLEY9_kSWN8J2vJ5dE4MUqPfgk2MBhhAJU-1720109604-1.0.1.1-tAX3NwJazT3RivUd5k9ov8KuKKcfSK257D5ZmRaPfk4oRgOUPuxqtTaONb4t1f1jb6tKhMdjBCShhP6gurxPug; path=/; expires=Thu, 04-Jul-24 16:43:24 GMT; domain=.xml-testing-tool.indeed.com; HttpOnly; Secure; SameSite=None
+< Content-Type: text/html; charset=UTF-8
+< Server: cloudflare
+< X-Frame-Options: SAMEORIGIN

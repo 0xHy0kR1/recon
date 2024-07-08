@@ -1,0 +1,15 @@
+GET https://sydprod1.apply.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Expires: Thu, 04 Jul 2024 16:13:43 GMT
+< Vary: Accept-Encoding
+< Alt-Svc: h3=":443"; ma=86400
+< Date: Thu, 04 Jul 2024 16:13:28 GMT
+< Cache-Control: max-age=15
+< Content-Type: text/html; charset=UTF-8
+< X-Frame-Options: SAMEORIGIN
+< Referrer-Policy: same-origin
+< Server: cloudflare
+< Cf-Ray: 89e0671eda08f421-BOM
+< Set-Cookie: __cf_bm=884NNkqR9CgA8tB9pfYcZXDnx4v.viXbGkToRuuS5wY-1720109608-1.0.1.1-rJsSqWTFJAHEYnglzDPMuXqIgrECaF0xS2HMUA88eX2BEtNrCqk0y6BveL_c3QJcgZxLmsJMYcGuND6lkacvnA; path=/; expires=Thu, 04-Jul-24 16:43:28 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None

@@ -1,0 +1,16 @@
+GET https://client-mobile-staging.indeedflex.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cache-Control: max-age=3600
+< Location: https://flex-client-mobile.sandbox.qa.indeed.net/
+< Vary: Accept-Encoding
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< Server: cloudflare
+< Cf-Ray: 89e067010afc3a2c-BOM
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Content-Type: text/html
+< Content-Length: 167
+< Expires: Thu, 04 Jul 2024 17:13:24 GMT
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=4%2BOkoKxhAz32jOQDsYzz3vrCrK2aVTYoDzq%2BlwoV6uXlWCWMx%2BUDieQibKyKF5G4LbGfDAqmZRGRTsAUw2RCKdLWAsEiwArHlkMQP%2FqTqQi%2FpMi7lq8jcNrgGMnIYAAu6KuuWTQXQjK0AESI%2FJ1Id%2Bm2139Rfg%3D%3D"}],"group":"cf-nel","max_age":604800}

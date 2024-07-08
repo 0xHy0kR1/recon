@@ -1,0 +1,16 @@
+GET https://client-mobile-prod.indeedflex.com
+
+
+< HTTP/1.1 200 OK
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=I1DokGxsIbXZw5065i0zD%2BDdKmQdY4Wpm6U6TCFhslREC1bli16IZS4l0KsFaqkT2yoURz%2BVq4T2r6M%2FMo1deMkRwEmzdPFe3aaVgwwoffZG2BLrIkhifKuph00rgLrGoL9ilaMGOqd%2FqZs6xmtT3xbXlg%3D%3D"}],"group":"cf-nel","max_age":604800}
+< Set-Cookie: CTK=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT; secure; httponly
+< Set-Cookie: indeed_rcc=CTK; path=/; expires=Tue, 03 Jul 2029 16:13:24 GMT; domain=indeedflex.com; samesite=none; secure
+< Set-Cookie: CTK=1i1v8b7tchb35801; path=/; expires=Tue, 03 Jul 2029 16:13:24 GMT; domain=indeedflex.com; samesite=none; secure
+< Cache-Control: no-store, max-age=0
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< Content-Type: text/html; charset=utf-8
+< Cf-Ray: 89e067011c1e4093-BOM
+< Server: cloudflare
+< Cf-Cache-Status: DYNAMIC
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}

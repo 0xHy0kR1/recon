@@ -1,0 +1,16 @@
+GET https://go.indeedflex.com
+
+
+< HTTP/1.1 530 
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< Cf-Ray: 89e066ffe9ec85e5-BOM
+< Date: Thu, 04 Jul 2024 16:13:23 GMT
+< Content-Type: text/plain; charset=UTF-8
+< Content-Length: 16
+< Referrer-Policy: same-origin
+< Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Expires: Thu, 01 Jan 1970 00:00:01 GMT
+< Server: cloudflare
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=knpXECoyTBjd4fpgZfhHFWgWHFvMnvEp6sUocJvCoj0CfLN8nqblR%2BZSCf%2F7c%2Bu%2FFB%2FXtLf%2FJZJKnWu7saxFtOk811AgTKHM1k33SI8qOYRyZwkRAqwl1TKWqrRYQeaci8Ps"}],"group":"cf-nel","max_age":604800}
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< X-Frame-Options: SAMEORIGIN

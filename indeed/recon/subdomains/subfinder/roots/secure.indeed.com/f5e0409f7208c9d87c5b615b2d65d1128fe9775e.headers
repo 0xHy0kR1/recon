@@ -1,0 +1,15 @@
+GET https://secure.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Referrer-Policy: same-origin
+< Cache-Control: max-age=15
+< Expires: Thu, 04 Jul 2024 16:13:39 GMT
+< Set-Cookie: __cf_bm=GY93879wNZCyb70nYo2acQf8.TgD78oeQjbG7BI3c.k-1720109604-1.0.1.1-05R3dOFfVikAdn9Y4r8b.hifBZ0FTttc7E8I7YP6M7k8iemJVzZ4S_PpRWbRgXLMyQ.M23Xy5GsJUnxW8ZTqoQ; path=/; expires=Thu, 04-Jul-24 16:43:24 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Cf-Ray: 89e067044d5b85c5-BOM
+< Vary: Accept-Encoding
+< Server: cloudflare
+< Content-Type: text/html; charset=UTF-8
+< Alt-Svc: h3=":443"; ma=86400
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< X-Frame-Options: SAMEORIGIN

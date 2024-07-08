@@ -1,0 +1,16 @@
+GET https://faq.indeedflex.com
+
+
+< HTTP/1.1 403 Forbidden
+< X-Sfdc-Request-Id: 744df51698256b0b1a5946c1476159f3
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=GHqbeQMcp6MQroNKfXdESrlBc%2FIXdpWnQ07vikVNo%2FE%2FUMe9ENHbysQWqb3g6MDY6Rs2lxDIb5soTFQ%2BGzxzT64rM5ztWDsCZ4CiSpuLLOPa5W%2F0CGi%2BU55kQpFmz9RuK4jMsA%3D%3D"}],"group":"cf-nel","max_age":604800}
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< Cf-Ray: 89e067010b5b8eeb-BOM
+< X-Sfdc-Edge-Err: true
+< Cf-Cache-Status: DYNAMIC
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Content-Type: text/html
+< Server: cloudflare
+< X-Content-Type-Options: nosniff
+< Content-Security-Policy: script-src 'none'

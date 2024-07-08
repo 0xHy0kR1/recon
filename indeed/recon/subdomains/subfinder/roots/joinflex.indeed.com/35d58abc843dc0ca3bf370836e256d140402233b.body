@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    
+<head>
+    <meta charSet="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Indeed Flex | Indeed | Sourcing</title>
+    
+    
+    <link rel="stylesheet" type="text/css" href="//d3hbwax96mbv6t.cloudfront.net/sourcing-engine-webapp/e00e0ed2ffe59043ba0f/css/IndexPage.client.css" />
+    <script src="//d3hbwax96mbv6t.cloudfront.net/sourcing-engine-webapp/5490150c48a3f6b57beb/js/manifest.js" defer></script>
+<script src="//d3hbwax96mbv6t.cloudfront.net/sourcing-engine-webapp/d8bf0f8de67b6cab5d78/js/vendor.js" defer></script>
+<script src="//d3hbwax96mbv6t.cloudfront.net/sourcing-engine-webapp/b46df336a45400a61b58/js/IndexPage.client.js" defer></script>
+    
+    
+    
+</head>
+    
+<body>
+    <script>window.__initialState = {"level":"prod","indexRoute":"/","recruiterHomePage":"/sourcing/requisitions","backendUrl":"https://c.indeed.com","publicPath":"//d3hbwax96mbv6t.cloudfront.net/sourcing-engine-webapp/","sourcing-engine-webapp.tinymce.apiKey":"m4hgpaukcyrwx65y9pkvos98gv7kfu5n6wof39jka3mtho3e","sourcing-engine-webapp.datadog.applicationId":"8b52eaac-2d8b-4fb4-be00-52f05044a668","sourcing-engine-webapp.datadog.clientToken":"pubbd2511dc0a9940de0460903e9f53df9f","sourcing-engine-webapp.release.version":"b5793de2dbb475ab637f2ced94350938a5923e60","sourcing-engine-webapp.datadog.proxy":"https://one-host-datadog-rum.indeed.com/api/datadog-rum/","requestLogTk":"1i1v8bd79g0dadv2","ctk":"1i1v8bd79g0daei8","generatedCsrfDomain":".indeed.com","indeedEvaluateUrl":"https://ewa.indeed.com","employerAccountsUrl":"https://account.indeed.com"};</script>    
+    <script>window['indeed.i18n.localeData'] = {"":{"Content-Type":" text/plain; charset=UTF-8","Plural-Forms":" nplurals=2; plural=n != 1;"},"en":[null,""]};</script>   
+    <div id="app-root"></div>
+</body>
+</html>

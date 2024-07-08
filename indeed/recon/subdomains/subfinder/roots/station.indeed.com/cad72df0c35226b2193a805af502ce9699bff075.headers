@@ -1,0 +1,15 @@
+GET https://station.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< X-Frame-Options: SAMEORIGIN
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Vary: Accept-Encoding
+< Server: cloudflare
+< Cf-Ray: 89e06701cbcb3e39-BOM
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: max-age=15
+< Expires: Thu, 04 Jul 2024 16:13:39 GMT
+< Set-Cookie: __cf_bm=1ZjXMtQbVR0HPiAg8Tmavvo8psHoSNYcRs5Hd_nJKLI-1720109604-1.0.1.1-PhrfP5PxWFwqXBdwbS4qUy6E.MXQFmcvQ4gkfCQ5Hlpks6dQeD__TsEc67fGmGUBh500nWTOmCXtXjwBHHb1sA; path=/; expires=Thu, 04-Jul-24 16:43:24 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Alt-Svc: h3=":443"; ma=86400
+< Referrer-Policy: same-origin

@@ -1,0 +1,18 @@
+GET http://bcg3cw.2969551m.indeedflex.com
+
+
+< HTTP/1.1 307 Temporary Redirect
+< X-Hubspot-Correlation-Id: 4314e6ac-2b7f-4164-88d4-3e286d121ea8
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< X-Request-Id: 4314e6ac-2b7f-4164-88d4-3e286d121ea8
+< X-Evy-Trace-Listener: listener_http
+< Server: envoy
+< Access-Control-Allow-Credentials: false
+< X-Evy-Trace-Route-Service-Name: envoyset-translator
+< X-Content-Type-Options: nosniff
+< X-Envoy-Upstream-Service-Time: 2
+< X-Evy-Trace-Virtual-Host: all
+< X-Evy-Trace-Served-By-Pod: iad02/franklin-redirect-td/envoy-proxy-7c6774f84-9nx6q
+< X-Evy-Trace-Route-Configuration: listener_http/all
+< Location: https://policy.hubspot.com/abuse-complaints
+< Vary: origin

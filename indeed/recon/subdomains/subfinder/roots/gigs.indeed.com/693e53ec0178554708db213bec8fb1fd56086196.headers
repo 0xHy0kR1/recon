@@ -1,0 +1,15 @@
+GET https://gigs.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Server: cloudflare
+< Alt-Svc: h3=":443"; ma=86400
+< X-Frame-Options: SAMEORIGIN
+< Vary: Accept-Encoding
+< Referrer-Policy: same-origin
+< Cf-Ray: 89e067226eb33b61-BOM
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: max-age=15
+< Set-Cookie: __cf_bm=_FIKhH9TbaPgMqsNuNWeIwMZ.Qtt8QvCuw.ztur09mQ-1720109609-1.0.1.1-dAmvOC0uFXGZ2f_sBTsuUfcwlAkW2EyE3b6XTp8GN1pvaqRRDBNZbRAgk1g2TKPDoaHRLDgqQXF2LlME.ks4uQ; path=/; expires=Thu, 04-Jul-24 16:43:29 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Expires: Thu, 04 Jul 2024 16:13:44 GMT

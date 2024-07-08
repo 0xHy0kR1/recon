@@ -1,0 +1,15 @@
+GET https://jobbankusa.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Vary: Accept-Encoding
+< Alt-Svc: h3=":443"; ma=86400
+< Referrer-Policy: same-origin
+< Set-Cookie: __cf_bm=4RXU3RfMwubUw14luV6Ssz0nrA3cY_r8e4QiQ93e_SY-1720109604-1.0.1.1-DXUJ966CZn6_suaDXkSPVfLKE7LNo9Z65RieXE6vRbkaClckXXNo7hyIRlk6PO1I5z.h6XhlYgwFr2S4bVuv2g; path=/; expires=Thu, 04-Jul-24 16:43:24 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Server: cloudflare
+< X-Frame-Options: SAMEORIGIN
+< Cf-Ray: 89e067061b8884b9-BOM
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: max-age=15
+< Expires: Thu, 04 Jul 2024 16:13:39 GMT

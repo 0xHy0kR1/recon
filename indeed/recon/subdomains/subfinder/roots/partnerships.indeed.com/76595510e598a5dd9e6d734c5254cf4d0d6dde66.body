@@ -1,0 +1,5 @@
+<!DOCTYPE html><html dir="ltr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>partnership-funnel</title><link rel="stylesheet" type="text/css" media="screen" href="https://partnerships.indeed.com/static/3dfc80a73ac1e3a0f50b/css/app.css"><!-- Google tag (gtag.js) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-P5XGHS2LFQ"></script><script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    gtag('config', 'G-P5XGHS2LFQ');</script></head><script type="text/javascript" src="https://partnerships.indeed.com/static/scripts/i18n/en.min.js"></script><script>this['country'] = "US";</script><body><span id="docs"></span><script>var envValue = "prod";</script><script type="text/javascript" src="https://partnerships.indeed.com/static/cfbc25da378494ffce76/js/docs.js"></script><script id="indeed-partnership-funnel-script" type="text/javascript" src="/static/scout-file/scout.js" data-indeed-env=prod data-indeed-container-id="your-container-id" data-indeed-partner-name="Indeed"></script></body></html>

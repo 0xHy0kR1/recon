@@ -1,0 +1,15 @@
+GET https://docs.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Server: cloudflare
+< Cf-Ray: 89e067033d0447c3-BOM
+< Alt-Svc: h3=":443"; ma=86400
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: same-origin
+< X-Frame-Options: SAMEORIGIN
+< Set-Cookie: __cf_bm=AAzgcr5oaZ_1egeBwlR0i5ehROutFEGHyEtAwgq6XM0-1720109604-1.0.1.1-qmoQrqREJzmkUowWvy9iP2p.ZXd8hSmqthkVO7MP35nteVPZ1ZtVLGkWRYVGyj2szOI68quC9985OpkAi0D.fQ; path=/; expires=Thu, 04-Jul-24 16:43:24 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Vary: Accept-Encoding
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Cache-Control: max-age=15
+< Expires: Thu, 04 Jul 2024 16:13:39 GMT

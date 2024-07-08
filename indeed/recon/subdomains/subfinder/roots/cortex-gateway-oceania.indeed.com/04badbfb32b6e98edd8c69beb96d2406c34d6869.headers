@@ -1,0 +1,12 @@
+GET https://cortex-gateway-oceania.indeed.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Content-Length: 28
+< Cf-Ray: 89e06725cfce3b9d-BOM
+< Alt-Svc: h3=":443"; ma=86400
+< Date: Thu, 04 Jul 2024 16:13:30 GMT
+< Cf-Cache-Status: DYNAMIC
+< Set-Cookie: __cf_bm=Qzdr5VhXbwOpQoWUgDVRfn9GAg1ToAf6X.Zi8oofYns-1720109610-1.0.1.1-NDrWEDVwC8OdxAxwO.IO4az12W5U9HDnoWpfnsVc0iultazj2YVHVNNouW3pA8VbZ66GlHgEPXIB15yJ7nGJqA; path=/; expires=Thu, 04-Jul-24 16:43:30 GMT; domain=.cortex-gateway-oceania.indeed.com; HttpOnly; Secure; SameSite=None
+< Server: cloudflare
+< Content-Type: text/plain; charset=utf-8

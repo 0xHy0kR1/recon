@@ -1,0 +1,15 @@
+GET https://l.indeed.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Frame-Options: DENY
+< Set-Cookie: dtk=1i1v8b8hs0000eq1; expires=Tue, 03 Jul 2029 16:13:25 GMT; Max-Age=157680000; Path=/
+< Content-Length: 0
+< Indeed-Tracking-Key: 60c0466a-72b5-48d7-b29c-ee51b8304d99
+< Indeed-Request-Id: 60c0466a-72b5-48d7-b29c-ee51b8304d99
+< X-Content-Type-Options: nosniff
+< Referrer-Policy: same-origin
+< Cross-Origin-Opener-Policy: same-origin
+< Vary: Cookie, Origin
+< Date: Thu, 04 Jul 2024 16:13:25 GMT
+< Content-Type: text/html; charset=utf-8

@@ -1,0 +1,18 @@
+GET https://sandbox.indeedflex.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< X-Okta-Request-Id: ZobKJAYc3miHjPKHrJ2oLAAAACc
+< Content-Security-Policy: default-src 'self' indeedsandbox.oktapreview.com sandbox.indeedflex.com *.oktacdn.com; connect-src 'self' indeedsandbox.oktapreview.com indeedsandbox-admin.oktapreview.com sandbox.indeedflex.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.oktapreview.com indeedsandbox.kerberos.oktapreview.com indeedsandbox.mtls.oktapreview.com *.authenticatorlocalprod.com:8769 http://localhost:8769 http://127.0.0.1:8769 *.authenticatorlocalprod.com:65111 http://localhost:65111 http://127.0.0.1:65111 *.authenticatorlocalprod.com:65121 http://localhost:65121 http://127.0.0.1:65121 *.authenticatorlocalprod.com:65131 http://localhost:65131 http://127.0.0.1:65131 *.authenticatorlocalprod.com:65141 http://localhost:65141 http://127.0.0.1:65141 *.authenticatorlocalprod.com:65151 http://localhost:65151 http://127.0.0.1:65151 https://oinmanager.okta.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' indeedsandbox.oktapreview.com sandbox.indeedflex.com *.oktacdn.com; style-src 'unsafe-inline' 'self' indeedsandbox.oktapreview.com sandbox.indeedflex.com *.oktacdn.com; frame-src 'self' indeedsandbox.oktapreview.com indeedsandbox-admin.oktapreview.com sandbox.indeedflex.com login.okta.com *.vidyard.com com-okta-authenticator:; img-src 'self' indeedsandbox.oktapreview.com sandbox.indeedflex.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' indeedsandbox.oktapreview.com sandbox.indeedflex.com data: *.oktacdn.com fonts.gstatic.com; frame-ancestors 'self'
+< Content-Type: text/html;charset=ISO-8859-1
+< Server: nginx
+< Set-Cookie: sid="";Version=1;Path=/;Max-Age=0
+< Set-Cookie: autolaunch_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< X-Xss-Protection: 0
+< Location: https://sandbox.indeedflex.com/app/UserHome?iss=https%3A%2F%2Fsandbox.indeedflex.com&session_hint=AUTHENTICATED
+< Content-Length: 0
+< Strict-Transport-Security: max-age=315360000; includeSubDomains
+< X-Robots-Tag: noindex,nofollow
+< P3p: CP="HONK"

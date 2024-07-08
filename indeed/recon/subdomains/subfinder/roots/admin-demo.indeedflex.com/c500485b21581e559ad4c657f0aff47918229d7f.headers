@@ -1,0 +1,16 @@
+GET https://admin-demo.indeedflex.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: CTK=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT; secure; httponly
+< Set-Cookie: indeed_rcc=CTK; path=/; expires=Tue, 03 Jul 2029 16:13:24 GMT; domain=indeedflex.com; samesite=none; secure
+< Set-Cookie: CTK=1i1v8b7ong7tjes4; path=/; expires=Tue, 03 Jul 2029 16:13:24 GMT; domain=indeedflex.com; samesite=none; secure
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Content-Type: text/html; charset=utf-8
+< Server: cloudflare
+< Cache-Control: no-store, no-cache, must-revalidate
+< Cf-Cache-Status: DYNAMIC
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=BaeVoAmbjtIuHSPrhyKJ94K4DqCzyOFyWfhts69S1Kn4xCZEI%2BPzoq%2BSnHrhZXJDENTLpKnrggc%2FiI8CRK3w5cMo%2BlqRhCcgu2wTEUAkiBxP6%2BsKrtd3JS%2BHEvqIxPThXLRZfbNAyTkpH18%3D"}],"group":"cf-nel","max_age":604800}
+< Cf-Ray: 89e06700081829ef-BOM

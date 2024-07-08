@@ -1,0 +1,12 @@
+GET https://hire.indeed.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Via: 1.1 719a8a3051824d9bf82ea46b74aff862.cloudfront.net (CloudFront)
+< Content-Length: 0
+< Date: Thu, 04 Jul 2024 16:13:30 GMT
+< Server: AmazonS3
+< X-Cache: Miss from cloudfront
+< Location: https://www.indeed.com/employers/hiring-platform/
+< X-Amz-Cf-Pop: BOM78-P4
+< X-Amz-Cf-Id: WdM6hWbmUadAttVG3F2Vd0FcDI3698pK3H-kaRp3WnsSSxvKnAsP9A==

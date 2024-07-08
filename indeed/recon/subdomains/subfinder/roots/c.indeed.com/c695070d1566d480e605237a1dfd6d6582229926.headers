@@ -1,0 +1,15 @@
+GET https://c.indeed.com
+
+
+< HTTP/1.1 200 OK
+< Referrer-Policy: same-origin
+< Cross-Origin-Opener-Policy: same-origin
+< Set-Cookie: CTK=1i1v8b8eo00009n4; Domain=.indeed.com; expires=Tue, 03 Jul 2029 16:13:25 GMT; Max-Age=157680000; Path=/
+< Set-Cookie: dtk=1i1v8b8em0000ffu; expires=Tue, 03 Jul 2029 16:13:25 GMT; Max-Age=157680000; Path=/
+< Set-Cookie: sessionid=ch34oa70apb8rbyuydog9mrf5s4dblg0; expires=Thu, 18 Jul 2024 16:13:25 GMT; HttpOnly; Max-Age=1209600; Path=/; SameSite=Lax; Secure
+< X-Content-Type-Options: nosniff
+< X-Frame-Options: DENY
+< Content-Language: en
+< Date: Thu, 04 Jul 2024 16:13:25 GMT
+< Content-Type: text/html; charset=utf-8
+< Vary: Accept-Language, Cookie, Accept-Encoding, origin

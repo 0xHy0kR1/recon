@@ -1,0 +1,11 @@
+GET https://www.indeedflex.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: cloudflare
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Content-Type: text/html
+< Cf-Cache-Status: DYNAMIC
+< Cf-Ray: 89e067000f17402b-BOM
+< Alt-Svc: h3=":443"; ma=86400
+< Location: https://indeedflex.com/

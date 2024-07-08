@@ -1,0 +1,16 @@
+GET https://myjobs.indeed.com
+
+
+< HTTP/1.1 302 Found
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< Set-Cookie: CSRF=gIZ8JVgbf1eD1DZbzJImNa42PzITUAIG; Path=/; Domain=.indeed.com; Secure
+< Set-Cookie: CTK=; Max-Age=0; Path=/; Secure; SameSite=None
+< Set-Cookie: CTK=1i1v8bclils14801; Domain=.indeed.com; Max-Age=157680000; Path=/; Secure; SameSite=None
+< Set-Cookie: __cf_bm=UmenRemJ5pkosK7Rxq.8WaB6JBf9at2gLlIrI9zig1Y-1720109609-1.0.1.1-w_S102_07FyGPKJ0mNq7R5GxOD5WWKWkyCIaB1ox4GYv7OpUHFYGmE_ZukFNlEUZ46HIUlNwpv.8NgK6UDy5qg; path=/; expires=Thu, 04-Jul-24 16:43:29 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Cf-Ray: 89e067239c7b3b3a-BOM
+< Server: cloudflare
+< Alt-Svc: h3=":443"; ma=86400
+< Location: https://secure.indeed.com/account/login?continue=https%3A%2F%2Fmyjobs.indeed.com%2F&co=IN&hl=en_IN
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< Cf-Cache-Status: DYNAMIC

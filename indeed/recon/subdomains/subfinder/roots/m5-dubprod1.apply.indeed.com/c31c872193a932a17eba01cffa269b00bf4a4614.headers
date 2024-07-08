@@ -1,0 +1,15 @@
+GET https://m5-dubprod1.apply.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Cache-Control: max-age=15
+< X-Frame-Options: SAMEORIGIN
+< Server: cloudflare
+< Cf-Ray: 89e067246dfb45a3-BOM
+< Referrer-Policy: same-origin
+< Expires: Thu, 04 Jul 2024 16:13:44 GMT
+< Alt-Svc: h3=":443"; ma=86400
+< Vary: Accept-Encoding
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: __cf_bm=NAepdpqM_OvlPEZmFZL_p5q_7WN2y.NfSDVlzWEQYh4-1720109609-1.0.1.1-.P1zCgUMzdOYNaWae5XMmKx3vq2IUINq3y5b7anJeSbFZwqonZ2K1ltWlbf2grKkn_sEL5zEhIfc6Y6UoEswgQ; path=/; expires=Thu, 04-Jul-24 16:43:29 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None

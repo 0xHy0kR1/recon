@@ -1,0 +1,13 @@
+GET https://linebot.indeed.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Set-Cookie: CTK=; Max-Age=0; Path=/; Secure; SameSite=None
+< Set-Cookie: CTK=1i1v8b8k7lqeu800; Domain=.indeed.com; Max-Age=157680000; Path=/; Secure; SameSite=None
+< Date: Thu, 04 Jul 2024 16:13:25 GMT
+< Vary: Origin
+< Vary: Access-Control-Request-Method
+< Vary: Access-Control-Request-Headers
+< Content-Language: en-US
+< Location: https://linebot.indeed.com/private/poodlepants/

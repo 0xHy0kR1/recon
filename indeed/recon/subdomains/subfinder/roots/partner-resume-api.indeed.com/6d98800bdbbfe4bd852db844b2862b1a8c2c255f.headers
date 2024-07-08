@@ -1,0 +1,7 @@
+GET https://partner-resume-api.indeed.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Thu, 04 Jul 2024 16:13:25 GMT
+< Content-Type: text/html
+< Content-Length: 146

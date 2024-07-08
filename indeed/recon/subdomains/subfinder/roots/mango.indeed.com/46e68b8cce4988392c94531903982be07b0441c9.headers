@@ -1,0 +1,15 @@
+GET https://mango.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Vary: Accept-Encoding
+< Server: cloudflare
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: max-age=15
+< Expires: Thu, 04 Jul 2024 16:13:43 GMT
+< Set-Cookie: __cf_bm=4V84BimBYigh0K2rqIzG7hpbI3mp7OHTy_7c0h._HiQ-1720109608-1.0.1.1-ejBsFI4OnETB2oGW1nQ3H5jEuCxb3qz.pVzwKtsgjasCMHmaVH9FxcJr7LJgubELuFHbvlQ40OkNBGGEC1KTQQ; path=/; expires=Thu, 04-Jul-24 16:43:28 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< X-Frame-Options: SAMEORIGIN
+< Referrer-Policy: same-origin
+< Date: Thu, 04 Jul 2024 16:13:28 GMT
+< Cf-Ray: 89e0671e3ab93b73-BOM
+< Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,11 @@
+GET https://outlook-addin.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< X-Cache: Error from cloudfront
+< Via: 1.1 19ad892e3e604acad3c246121e680120.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: BOM78-P4
+< X-Amz-Cf-Id: dQ-1ZfS9HJHdkKerD2uBXNH7VIvDbnjhhVwdkVRbyQ-79UqXySPmCg==
+< Date: Thu, 04 Jul 2024 16:13:25 GMT
+< Server: AmazonS3
+< Content-Type: application/xml

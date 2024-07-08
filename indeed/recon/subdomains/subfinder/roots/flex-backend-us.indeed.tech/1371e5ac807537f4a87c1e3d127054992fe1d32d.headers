@@ -1,0 +1,9 @@
+GET https://flex-backend-us.indeed.tech
+
+
+< HTTP/1.1 400 Bad Request
+< Content-Length: 35
+< Vary: Origin
+< Strict-Transport-Security: max-age=31536000; includeSubDomains
+< Date: Thu, 04 Jul 2024 16:13:30 GMT
+< Content-Type: text/plain

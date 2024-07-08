@@ -1,0 +1,15 @@
+GET https://ch-fr.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: same-origin
+< Expires: Thu, 04 Jul 2024 16:13:39 GMT
+< Server: cloudflare
+< Alt-Svc: h3=":443"; ma=86400
+< Cache-Control: max-age=15
+< Set-Cookie: __cf_bm=uS7Y0EKIQZAe1Sk.pYitS7YXqyRP3NUGMaZveJtNpDQ-1720109604-1.0.1.1-1Jgk4BNy0YMlGlPn0FstDvgbjkwGPrtijxI0Om5VCU9xaBz8LmVTOVGUhdxmX55O00ZNEly27t1WK.o2uesmgQ; path=/; expires=Thu, 04-Jul-24 16:43:24 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Vary: Accept-Encoding
+< Cf-Ray: 89e067061e2b3f5b-BOM
+< X-Frame-Options: SAMEORIGIN

@@ -1,0 +1,7 @@
+GET https://whatsapp-template-callback-qa.indeed.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Thu, 04 Jul 2024 16:13:30 GMT
+< Content-Type: application/json
+< Cache-Control: must-revalidate,no-cache,no-store

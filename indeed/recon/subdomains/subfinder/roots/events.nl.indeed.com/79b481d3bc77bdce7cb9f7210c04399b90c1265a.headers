@@ -1,0 +1,16 @@
+GET https://events.nl.indeed.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: CTK=1i1v8bcls00009nn; Domain=.indeed.com; expires=Tue, 03 Jul 2029 16:13:29 GMT; Max-Age=157680000; Path=/
+< Set-Cookie: dtk=1i1v8bclr00008j3; expires=Tue, 03 Jul 2029 16:13:29 GMT; Max-Age=157680000; Path=/
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< Content-Type: text/html; charset=utf-8
+< X-Xss-Protection: 1; mode=block
+< Location: /hiringevents
+< X-Content-Type-Options: nosniff
+< X-Frame-Options: SAMEORIGIN
+< Content-Language: en-us
+< Referrer-Policy: same-origin
+< Vary: Accept-Language, Cookie
+< Vary: Accept-Encoding

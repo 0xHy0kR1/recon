@@ -1,0 +1,16 @@
+GET https://mailchimp.indeedflex.com
+
+
+< HTTP/1.1 525 
+< Expires: Thu, 01 Jan 1970 00:00:01 GMT
+< Cf-Ray: 89e067000b678584-BOM
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Content-Type: text/plain; charset=UTF-8
+< Content-Length: 15
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< Referrer-Policy: same-origin
+< Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Server: cloudflare
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=L38k4fpfcbodUa%2FYd%2BIBPdnbdFQAxYCv3t7wVC6%2FA%2Fx4noAe5og9H50aqGAPq9r1Va1a8CNH5LihhY%2F8IbqSOsSSfZc01F1S95aGTgvYwsqwz2KmTRri8j3uGlP4pAID6GtW9QH7w6X8Jg%3D%3D"}],"group":"cf-nel","max_age":604800}
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< X-Frame-Options: SAMEORIGIN

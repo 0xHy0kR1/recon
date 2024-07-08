@@ -1,0 +1,16 @@
+GET https://bugs.indeed.com
+
+
+< HTTP/1.1 302 Moved Temporarily
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Content-Length: 143
+< Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Location: https://indeed.cloudflareaccess.com/cdn-cgi/access/login/bugs.indeed.com?kid=d2916ca24ed7a5f5c5ceacb6b010ddfb737858aaede15e210c0eb226d4e025a9&redirect_url=%2F&meta=eyJraWQiOiJiMDhmN2ZjNWUwNDllOTg3NjNhZThhZTliNTRlN2E5MGY2MDAwZTNiZTNhZGZlYTFjYTY5OWU4ZGYxZGUyZTQ3IiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTcyMDEwOTYwNCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImQyOTE2Y2EyNGVkN2E1ZjVjNWNlYWNiNmIwMTBkZGZiNzM3ODU4YWFlZGUxNWUyMTBjMGViMjI2ZDRlMDI1YTkiLCJob3N0bmFtZSI6ImJ1Z3MuaW5kZWVkLmNvbSIsImFwcF9zZXNzaW9uX2hhc2giOiJlMTQ0NTFjYmZhOTIzYzE3YThkNDc3NWJjYWZjZGJmODc4ZmE5MTM3ZWUyYjYzMTllZDY0ZTQ5ZDM0MDI1MDYxIiwibmJmIjoxNzIwMTA5NjA0LCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsInR5cGUiOiJtZXRhIiwicmVkaXJlY3RfdXJsIjoiXC8iLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX2RuIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sImF1dGhfc3RhdHVzIjoiTk9ORSJ9.ZT0F-lg3WpkGhJCS0HFSDVSGANUyJzt1_8Ud1lgc9bkqqVozXHekTr7VfDjoD_CyDcowJJ4qWE8pMGRB4pBMOYjyifxDyEOtSny2bs7YuzCh-h5ht-Qc7tMaS79ETYMB7CuTVA9scxSniF0Ke5qU2nT4PIQlQhbr3wm9W6BcSRanbPDr09U8XOO9BBYX2F9NkU2nJhOpSWhEMjzx-1ER4EUyqKnyatk2tV5j2D87Ir5wuTBMZfQyT819X7y5yRrVc_PKZ_SPm5W3I6OCuhOP2CSRzbZQQcnC7EK_-64IkNEvLqPva2GjznOrKh14J3pT7scZjhCR92SNga88gvm27A
+< Server: cloudflare
+< Cf-Ray: 89e067037c70f3ad-BOM
+< Content-Type: text/html
+< Set-Cookie: CF_AppSession=n8b4d8cade7645229; Expires=Fri, 05 Jul 2024 16:13:24 GMT; Path=/; Secure; HttpOnly
+< Set-Cookie: __cf_bm=w.gAOpVSLbjvRZbV8Pxjy4c45tzZYrvVbdAQoiFd5vA-1720109604-1.0.1.1-GAyQ65Tt6YzFcEhNVdcuH1gqX2mkJCo0BUiXRGEZINl9h7s9JnqVMJOq8yLlrHGb2_bEiVU10BeXHcea3wiwug; path=/; expires=Thu, 04-Jul-24 16:43:24 GMT; domain=.bugs.indeed.com; HttpOnly; Secure; SameSite=None
+< Access-Control-Allow-Credentials: true
+< Expires: Thu, 01 Jan 1970 00:00:01 GMT
+< Vary: Accept-Encoding

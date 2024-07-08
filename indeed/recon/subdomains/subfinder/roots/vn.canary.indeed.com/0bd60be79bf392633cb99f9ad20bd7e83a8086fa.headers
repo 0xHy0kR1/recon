@@ -1,0 +1,15 @@
+GET https://vn.canary.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Referrer-Policy: same-origin
+< Cache-Control: max-age=15
+< Set-Cookie: __cf_bm=GJXW9Xh_QvvDjU3iQ4TAzdeE1VJmEQV8CcOFFGRAbQg-1720109609-1.0.1.1-OxTL90w.2lMn43D7jDnf8PbW2jGGBusDrbWSrJNwN8LVceOaa26eMKv9VJoSDCFz89z9jg8JhI1eGe8t1miiRA; path=/; expires=Thu, 04-Jul-24 16:43:29 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Vary: Accept-Encoding
+< Alt-Svc: h3=":443"; ma=86400
+< Expires: Thu, 04 Jul 2024 16:13:44 GMT
+< X-Frame-Options: SAMEORIGIN
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< Server: cloudflare
+< Cf-Ray: 89e067246aee47d4-BOM
+< Content-Type: text/html; charset=UTF-8

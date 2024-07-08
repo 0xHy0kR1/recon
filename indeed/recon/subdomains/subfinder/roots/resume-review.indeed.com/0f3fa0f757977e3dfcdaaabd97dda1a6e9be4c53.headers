@@ -1,0 +1,23 @@
+GET https://resume-review.indeed.com
+
+
+< HTTP/1.1 302 Found
+< Server: cloudflare
+< Content-Language: en-US
+< Content-Security-Policy: none
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Ratelimit-Remaining: 999
+< X-Ratelimit-Reset: 1720109610
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< X-Ratelimit-Limit: 1000
+< Cf-Cache-Status: DYNAMIC
+< Location: https://resume-review.indeed.com/career-services/
+< Set-Cookie: CTK=; Max-Age=0; Path=/; Secure; SameSite=None
+< Set-Cookie: CTK=1i1v8bch4mdt0800; Domain=.indeed.com; Max-Age=157680000; Path=/; Secure; SameSite=None
+< Set-Cookie: collectorID=Direct; Domain=.indeed.com; Expires=Thu, 11 Jul 2024 16:13:29 GMT; Path=/; Secure; HttpOnly
+< Set-Cookie: secondaryCollectorID=Direct; Domain=.indeed.com; Expires=Thu, 11 Jul 2024 16:13:29 GMT; Path=/; Secure; HttpOnly
+< Set-Cookie: INDEED_CSRF_TOKEN=rPJ8o3xCXlzY3rbmaZwnkWpmB8dxPBPd; Path=/; Secure
+< Set-Cookie: __cf_bm=3ia5_qscGVgwwyfbiLdnH8G9Uo7ORcxz_8MWPFuHz.w-1720109609-1.0.1.1-wnAgQF9J5h8wBHCvPgoB_4rm_JzJHvwx3DmZiDngbHGAx7HKucd7Y0urB8Z1oZaZKg.XgznqoqEnj4a7mRlxUA; path=/; expires=Thu, 04-Jul-24 16:43:29 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Vary: Accept-Encoding
+< Cf-Ray: 89e067226c764732-BOM
+< Alt-Svc: h3=":443"; ma=86400

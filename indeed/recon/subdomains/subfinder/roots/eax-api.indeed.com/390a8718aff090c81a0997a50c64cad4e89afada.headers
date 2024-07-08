@@ -1,0 +1,12 @@
+GET https://eax-api.indeed.com
+
+
+< HTTP/1.1 302 Found
+< Vary: Origin
+< Vary: Access-Control-Request-Method
+< Vary: Access-Control-Request-Headers
+< Content-Language: en-US
+< Date: Thu, 04 Jul 2024 16:13:25 GMT
+< Content-Length: 0
+< Set-Cookie: CSRF=VNm5yRtIf5VbrnQcAfEbvoS3RZFFLjyG; Domain=.indeed.com; Path=/; HttpOnly
+< Location: https://eax-api.indeed.com/private/poodlepants/

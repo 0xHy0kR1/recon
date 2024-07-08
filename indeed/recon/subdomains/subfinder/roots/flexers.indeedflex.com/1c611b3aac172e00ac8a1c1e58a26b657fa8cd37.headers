@@ -1,0 +1,16 @@
+GET https://flexers.indeedflex.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 167
+< Expires: Thu, 04 Jul 2024 17:13:23 GMT
+< Location: https://flexers.indeed.com/
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< Cf-Ray: 89e066ff0bb940c3-BOM
+< Date: Thu, 04 Jul 2024 16:13:23 GMT
+< Cache-Control: max-age=3600
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=bRNFUaIDYkylwyhTWFRFU6M7AcOytMf9QlDASBWMaUAzcGHla%2BnF2z%2BGjP4hbPKfYhXVNd6i9Y2DAnOOTsQBh5hIKVaqaCKs7PMplHNIIAFkgM0DYsK57lANlfS%2BqoXfeiZXcTFDWVM%3D"}],"group":"cf-nel","max_age":604800}
+< Vary: Accept-Encoding
+< Server: cloudflare
+< Content-Type: text/html

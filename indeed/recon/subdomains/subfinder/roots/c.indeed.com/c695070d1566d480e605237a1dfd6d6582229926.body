@@ -1,0 +1,287 @@
+
+
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="techbiz">
+
+    
+        
+        <!-- Google Tag Manager -->
+        <script>
+            (function(w,d,s,l,i){
+                w[l]=w[l]||[];
+                w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+                var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+                j.async=true;
+                j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+                f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-M276QSM');
+        </script><!-- End Google Tag Manager -->
+        
+    
+
+    
+    
+
+    
+    <title>Indeed Flex | Indeed | Home</title>
+    <link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
+
+
+    
+        <link rel="stylesheet" type="text/css" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link href="https://d35gpr1r7cr3xe.cloudfront.net/v0.2.3/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="/static/css/base.css">
+        <link rel="stylesheet" type="text/css" href="/static/css/common.css">
+        <link rel="stylesheet" type="text/css" href="/static/styles/main.css">
+        <link rel="stylesheet" type="text/css" href="/static/styles/mobileMenu.css">
+    
+
+    
+<link rel="stylesheet" type="text/css" href="/static/css/home.css">
+
+
+    
+    
+
+
+</head>
+
+<body data-tn-originLogType="" data-tn-olth=""
+      data-tn-originLogId="" data-tn-application=""
+      data-tn-page=""
+      dir="ltr">
+
+
+    
+        <!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M276QSM" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript><!-- End Google Tag Manager (noscript) -->
+
+    
+
+
+
+    
+
+
+
+
+
+
+<!-- Start mobile menu -->
+<div class="modal fade mobile-menu" id="mobile-menu-modal"  tabindex="-1" role="dialog" aria-label="mobile-menu" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header" style="border:0;">
+          <button type="button" class="close btn btn-link" data-dismiss="modal">
+              <i class="fa fa-close fa-lg"></i>
+              <span class="sr-only">Close</span>
+          </button>
+          <h4 class="modal-title text-center"><span class="sr-only">main navigation</span></h4>
+      </div>
+      <div class="modal-body text-center">
+        <ul>
+          
+          <li>
+            <a href="/account/login?hl=en_US&amp;co=US&amp;next=%2Fuser%2Flogin-success" class="navbar-link">
+              <i class="fa fa-sign-in fa-lg" style="color:#fff;"></i> &nbsp;Login</a>
+          </li>
+          
+        </ul>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.fullscreen -->
+<!-- end mobile menu -->
+
+<nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom:0px">
+    <div class="container-fluid">
+
+        <div class="navbar-header">
+
+            <button type="button" class="navbar-toggle collapsed" data-toggle="modal"
+                    data-target="#mobile-menu-modal" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            
+                <a class="navbar-brand" href="/">
+                    <img src="/static/images/indeed-flex-logo.svg" alt="Indeed Flex logo">
+                </a>
+            
+        </div>
+        
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+                
+                <li>
+                    <a href="/account/login?hl=en_US&amp;co=US&amp;next=%2Fuser%2Flogin-success" class="navbar-link">Login</a>
+                </li>
+                
+
+            </ul>
+
+        </div>
+
+    </div>
+</nav>
+
+
+
+
+    
+
+
+
+
+<main class="container-fluid">
+    
+  <div class="dark centered" id="">
+    <h1 class="sr-only">Indeed Flex home</h1>
+
+    <div class="row">
+        <div class="col-xs-12 centered">
+            <a class="logo-wrapper" href="/" style="width:auto">
+                <img src="/static/images/indeed-flex-logo.svg" alt="Indeed Flex logo" style="height:100%">
+            </a>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-12">
+        
+            <p> Please login with an Indeed Account that has a resume to continue </p>
+            <a href="/user/login-success" class="btn btn-primary btn-sm">Login with Indeed Account</a>
+        
+        </div>
+    </div>
+
+</div>
+
+
+</main>
+
+<footer class='base-footer'>
+    
+        
+
+
+
+<div class="base-footer-container">
+    <p>
+        &copy; 2024 Indeed
+        -
+        
+            <a  href="https://www.indeed.com/accessibility">
+                Accessibility at Indeed
+            </a>
+            -
+            <a href="https://www.indeed.com/legal/ccpa-dns">
+                Do not sell my info
+            </a>
+        
+    </p>
+</div>
+
+    
+</footer>
+
+
+    <script>
+        const ENVIRONMENT = 'prod';
+        const DATADOG_APPLICATION_ID = '00e48146\u002D9bad\u002D47ed\u002D85ac\u002De02d532254fe';
+        const DATADOG_CLIENT_TOKEN = 'pub8b83443f2ecf6bebbcab75f90e81da16';
+    </script>
+
+    <script
+      src="https://code.jquery.com/jquery-3.1.1.js"
+      integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
+      crossorigin="anonymous">
+    </script>
+    <script type="text/javascript" src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+    <script src="https://d35gpr1r7cr3xe.cloudfront.net/v0.2.3/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/static/js/common.js"></script>
+
+    
+
+    
+
+    
+    
+    <script type="text/javascript" src="/static/js/ajax_logger.js"></script>
+    <script type="text/javascript" src="/static/js/rcv.js"></script>
+    <script>
+        // CSRF protection code
+        // Based on https://docs.djangoproject.com/en/dev/ref/contrib/csrf/#ajax
+        function getCookie(name) {
+         var cookieValue = null;
+         if (document.cookie && document.cookie != '') {
+           var cookies = document.cookie.split(';');
+           for(var i = 0; i < cookies.length; i++) {
+             var cookie = cookies[i].trim();
+             // Does this cookie string begin with the name we want?
+             if(cookie.substring(0, name.length + 1) == (name + '=')) {
+         cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+         break;
+             }
+           }
+         }
+         return cookieValue;
+        }
+
+        var csrftoken = getCookie('csrftoken');
+
+        $(window).on('load', function() {
+            window.ajaxLogger = new AJAXLogger("/jsv/ajax/log/metric/", csrftoken, window.django_jsvlogger_logWithBeacon);
+            window.ajaxLogger.bindEvents();
+            window.rcv = new RCV({
+                csrftoken: csrftoken,
+                ref_urlpath: '/',
+                ref_uid: '1i1v8b8eo0000ej9',
+                urls: {
+                    jsv: "/jsv/ajax/verify/jsv/",
+                    jsvimage: "/jsv/ajax/image/",
+                    interaction: "/jsv/ajax/verify/interaction/",
+                    time_on_page: "/jsv/ajax/time_on_page/",
+                    performance_timing: "/jsv/ajax/performance_timing/",
+                    ctk: "/jsv/ajax/verify/ctk/",
+                    ctkimage: "https://www.indeed.com/hire/cookie"
+                },
+                status: {
+                    jsv: false,
+                    interaction: false,
+                    ctk: false
+                },
+                performance_timing: {
+                    enabled: false,
+                    fields: [
+                        "redirectStart","redirectEnd","fetchStart","domainLookupStart","domainLookupEnd","connectStart","connectEnd","secureConnectionStart","requestStart","responseStart","responseEnd","unloadEventStart","unloadEventEnd","domInteractive","domContentLoadedEventStart","domContentLoadedEventEnd","domComplete","loadEventStart","loadEventEnd","firstPaint","firstContentfulPaint",
+                    ]
+                },
+                useBeacon: window.django_jsvlogger_logWithBeacon
+            });
+            window.rcv.run();
+        });
+    </script>
+
+
+
+
+
+
+
+
+</body>
+</html>

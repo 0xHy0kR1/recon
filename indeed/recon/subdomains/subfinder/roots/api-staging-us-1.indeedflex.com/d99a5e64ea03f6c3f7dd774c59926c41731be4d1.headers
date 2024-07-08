@@ -1,0 +1,22 @@
+GET https://api-staging-us-1.indeedflex.com
+
+
+< HTTP/1.1 302 Found
+< X-Request-Id: e0dbac5d-2002-4e1d-96e1-969920a5dc3e
+< Cf-Cache-Status: DYNAMIC
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< X-Frame-Options: SAMEORIGIN
+< X-Xss-Protection: 0
+< X-Content-Type-Options: nosniff
+< Referrer-Policy: strict-origin-when-cross-origin
+< X-Runtime: 0.013486
+< Vary: Accept-Encoding, Origin
+< Server: cloudflare
+< Location: https://api-staging-us-1.indeedflex.com/api/v2
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=eUcRnIGaaQ8RObdIpJCZGwERLzFsrA%2BxWEEPcZcTBqtPjZL5xbOg18yuBLjYbz4D7td6x258VZ191ydNdLU6e6qAKUonzzv3fvxoUVPi2bMr0ppatgwb7T27ea%2FwSl4COmruKaF%2BlVcX0t2HTZdFIw8%3D"}],"group":"cf-nel","max_age":604800}
+< Cf-Ray: 89e0671f7fe247ef-BOM
+< Content-Type: text/html; charset=utf-8
+< X-Permitted-Cross-Domain-Policies: none
+< Cache-Control: no-cache
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}

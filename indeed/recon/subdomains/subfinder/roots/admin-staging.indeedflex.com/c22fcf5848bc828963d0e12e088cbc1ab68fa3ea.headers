@@ -1,0 +1,16 @@
+GET https://admin-staging.indeedflex.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Type: text/html
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< Server: cloudflare
+< Expires: Thu, 04 Jul 2024 17:13:28 GMT
+< Location: https://flex-acp-us.sandbox.qa.indeed.net/
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=BEzg3RehvPSSTYsEj2L%2FZDnZRs3bL%2F3F3HkimLB%2B%2FZkwE9L4XAzUweRN2HDcUasBJ59Zwsru1HWSfBvprago0pHJ%2B%2F4SkujjYRWDnD87UxLJT7mIBJT7%2BelIZiZI0FBgsb41I%2Bhnkw3qBJEzP6I%3D"}],"group":"cf-nel","max_age":604800}
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< Date: Thu, 04 Jul 2024 16:13:28 GMT
+< Content-Length: 167
+< Cache-Control: max-age=3600
+< Vary: Accept-Encoding
+< Cf-Ray: 89e0671eaa9c48e9-BOM

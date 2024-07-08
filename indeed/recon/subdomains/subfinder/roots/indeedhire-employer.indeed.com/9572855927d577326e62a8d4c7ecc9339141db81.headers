@@ -1,0 +1,22 @@
+GET https://indeedhire-employer.indeed.com
+
+
+< HTTP/1.1 302 Found
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< X-Ua-Compatible: IE=edge
+< X-Zendesk-Zorg: yes
+< Server: cloudflare
+< X-Zendesk-Processed-Host-Header: indeedhire-employer.indeed.com
+< X-Request-Id: 89e06704ac0b3b6d-BOM
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=B4HNKTlCQrs84iO7nEZND25ueRtTQnQxUCm13gWXve63i6sTeKxwc3BfbSzWw3TztYv2XTR7lcXgxZa3%2FDpgBJZZL4aMIL23DeSnUCHdtrR%2FZaRDEENQxTQuEvhZxBCDTTxeBDW%2B%2FNdJp1UzMNNBBw%3D%3D"}],"group":"cf-nel","max_age":604800}
+< Cf-Ray: 89e06704ac0b3b6d-BOM
+< Content-Type: text/html; charset=utf-8
+< Cache-Control: no-cache
+< X-Runtime: 0.044979
+< Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+< Location: https://indeedhire-employer.indeed.com/hc
+< Strict-Transport-Security: max-age=259200; includeSubDomains
+< X-Zendesk-Origin-Server: app-server-c9cdf76bf-pks2t
+< Set-Cookie: _help_center_session=cXMvMDJwWHdwSGk4eFplVFkyeGFaZmIwWGpuQ0VEUDJyMFRIa05FazFQVmxOaTYvRDdPNWRHYk8vOXhIbmhISUgxckVyUGkzVzdGVmw5VnZQcExmWFE9PS0tbmFBeXRlalNHVWkwdTlyMjJXQmY3QT09--20452e37e2aeb9c29ff0f5f2b462a706dbe27bb2; path=/; secure; HttpOnly; SameSite=None
+< Set-Cookie: __cfruid=43775fdfa942903c3d114c6ed4e0ff0482657275-1720109604; path=/; domain=.indeedhire-employer.indeed.com; HttpOnly; Secure; SameSite=None
+< Cf-Cache-Status: DYNAMIC

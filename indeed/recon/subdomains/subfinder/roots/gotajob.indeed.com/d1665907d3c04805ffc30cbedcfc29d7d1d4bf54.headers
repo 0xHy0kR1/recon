@@ -1,0 +1,9 @@
+GET https://gotajob.indeed.com
+
+
+< HTTP/1.1 200 OK
+< Content-Language: en-US
+< Set-Cookie: CTK=1i1v8bdi1gn7h801; Max-Age=157680000; Path=/; Secure; SameSite=None
+< Vary: Accept-Encoding
+< Date: Thu, 04 Jul 2024 16:13:31 GMT
+< Content-Type: text/html;charset=utf-8

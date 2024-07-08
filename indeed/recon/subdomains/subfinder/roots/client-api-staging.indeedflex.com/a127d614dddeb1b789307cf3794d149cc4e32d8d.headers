@@ -1,0 +1,22 @@
+GET https://client-api-staging.indeedflex.com
+
+
+< HTTP/1.1 302 Found
+< X-Permitted-Cross-Domain-Policies: none
+< Referrer-Policy: strict-origin-when-cross-origin
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=9hSPJVa9jgY0NwCL2SP7CDkiprQ3nJG3dXymLtBCmwxF0CfDF%2BAXclLtwBAkDS2uZ1qST0S2%2FLGkbKnaLRDHk2wKMmtsZJDaE%2FYpYTqpggsdVZip3RlO0Q0xNQX%2B8nhflE94cGHRSFercxBQnOTbwrFGgg%3D%3D"}],"group":"cf-nel","max_age":604800}
+< X-Frame-Options: SAMEORIGIN
+< X-Xss-Protection: 0
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-cache
+< Cf-Cache-Status: DYNAMIC
+< X-Runtime: 0.016042
+< Vary: Accept-Encoding, Origin
+< Server: cloudflare
+< Cf-Ray: 89e067000fb34811-BOM
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Content-Type: text/html; charset=utf-8
+< Location: https://client-api-staging.indeedflex.com/api/v2
+< X-Request-Id: 70b8283e-876a-44b9-b13b-6611ac5a4381

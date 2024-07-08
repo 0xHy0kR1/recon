@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    
+<head>
+    <meta charSet="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Index Page</title>
+    
+    
+    <link rel="stylesheet" type="text/css" href="//prod.statics.indeed.com/flex-portal/primary/70cd82813f81451c9806/css/index.css" />
+    <script src="//prod.statics.indeed.com/flex-portal/primary/7376d10b2429ac1affba/js/manifest.js" crossorigin="anonymous" defer></script>
+<script src="//prod.statics.indeed.com/flex-portal/primary/0abb203769e021ab3f3d/js/3666.js" crossorigin="anonymous" defer></script>
+<script src="//prod.statics.indeed.com/flex-portal/primary/fe88478c082f6806770a/js/9211.js" crossorigin="anonymous" defer></script>
+<script src="//prod.statics.indeed.com/flex-portal/primary/c0d85ee5159cb10c3301/js/8134.js" crossorigin="anonymous" defer></script>
+<script src="//prod.statics.indeed.com/flex-portal/primary/ec35f993ea144bbc2171/js/5324.js" crossorigin="anonymous" defer></script>
+<script src="//prod.statics.indeed.com/flex-portal/primary/f61ad03a46d38b00bb63/js/4631.js" crossorigin="anonymous" defer></script>
+<script src="//prod.statics.indeed.com/flex-portal/primary/b53ff4ad5f88dddffaff/js/7095.js" crossorigin="anonymous" defer></script>
+<script src="//prod.statics.indeed.com/flex-portal/primary/59c6eac083f9647d24df/js/index.js" crossorigin="anonymous" defer></script>
+    
+    
+    
+</head>
+    <link rel="dns-prefetch"  href="https://www.googletagmanager.com" crossorigin />
+<link rel="dns-prefetch"  href="https://www.google-analytics.com" crossorigin />
+<link rel="dns-prefetch"  href="https://js.appboycdn.com" crossorigin />
+<link rel="dns-prefetch"  href="https://d.la1-c1-par.salesforceliveagent.com" crossorigin />
+<link rel="dns-prefetch"  href="https://d.la1-c2-lo2.salesforceliveagent.com" crossorigin />
+<link rel="dns-prefetch"  href="https://syft-app.my.salesforce.com" crossorigin />
+<link rel="dns-prefetch"  href="https://service.force.com" crossorigin />
+<link rel="preconnect"  href="https://fonts.gstatic.com" crossorigin />
+<link rel="preconnect"  href="https://fonts.googleapis.com" crossorigin />
+<link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&display=swap"  />
+<link rel="manifest"  href="/manifest.json"  />
+  </head>
+    
+<body>
+    <script>window.__initialState = {"stagingLevel":"prod","isLemma":false,"version":{"releaseVersion":"2.349.0-8110c1f5669e01898337d5a1d643129ff49ea33b","hash":"8110c1f5669e01898337d5a1d643129ff49ea33b"},"datadogProxy":"https://one-host-datadog-rum.indeed.com/api/datadog-rum/","client":{"adyen_public_client_key":"live_LKLTF6JNK5FCTAUX72QDBW2NRITQZBGE","user_idle_timeout":"0.5","gtm_container_id":"GTM-KBP3LVM","is_mandatory_cc_payment_flow":"false","enable_liveagent":"true","liveagent_content_url":"https://c.la1-c2-lo2.salesforceliveagent.com/content","liveagent_button_id":"5734I0000008SuH","liveagent_base_url":"https://d.la1-c2-lo2.salesforceliveagent.com/chat","liveagent_esw_dev_name":"US_Workers","liveagent_esw_name":"US_Workers","google_api_key":"AIzaSyDSSyWVcjc_WGgiAgFt7ab6ZqMqLhq606Q"},"ctk":"1i1v8bcjjhb3qavh","apiConfig":{"apiRegion":"US","apiBaseUrl":"https://flex-core-us.indeed.com/api/v2","apiCountryCode":"US"},"publicStaticsUrl":"//prod.statics.indeed.com/flex-portal/primary/","reactAppOverrides":{"REACT_APP_MAINTENANCE_MODE_BODY":"On Friday, October 13th we’ll be doing some essential maintenance work on the Indeed Flex systems. There might be some brief interruptions to your service during this time. Thanks for understanding.","REACT_APP_SUPPORTED_LOCALES":"en,en-GB,en-US","REACT_APP_MAINTENANCE_MODE_TITLE":"Good things are on the way"},"isPrivileged":false,"featureFlags":{}};</script>    
+    <script>window['indeed.i18n.localeData'] = {"":{"Content-Type":" text/plain; charset=UTF-8","Plural-Forms":" nplurals=2; plural=n != 1;"}};</script>   
+    <div id="app-root"></div>
+</body>
+</html>

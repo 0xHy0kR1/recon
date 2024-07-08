@@ -1,0 +1,15 @@
+GET https://ats-management.indeed.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: CTK=; Max-Age=0; Path=/; Secure; SameSite=None
+< Set-Cookie: CTK=1i1v8b8o4lfit800; Domain=.indeed.com; Max-Age=157680000; Path=/; Secure; SameSite=None
+< Set-Cookie: __cf_bm=79qo3Y6jNKT13MmzJKf2ycfjW4Qf90HxHsuntiJwYtE-1720109605-1.0.1.1-cyDfYL2PTXUyQASu6zsBl78qxucAS.QDajBA3jTRHcBOG_iAKUzx0ydrEloQIBeZox0dD7q5KoEOQNTQkZicJQ; path=/; expires=Thu, 04-Jul-24 16:43:25 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Content-Language: en-US
+< Cf-Ray: 89e0670568f53fa9-BOM
+< Alt-Svc: h3=":443"; ma=86400
+< Content-Length: 0
+< Location: https://www.indeed.com/
+< Cf-Cache-Status: DYNAMIC
+< Server: cloudflare
+< Date: Thu, 04 Jul 2024 16:13:25 GMT

@@ -1,0 +1,17 @@
+GET https://tableau-dev.indeed.tech
+
+
+< HTTP/1.1 302 Moved Temporarily
+< Access-Control-Allow-Credentials: true
+< Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Location: https://indeed.cloudflareaccess.com/cdn-cgi/access/login/tableau-dev.indeed.tech?kid=750c06ab8b9ec9ac4db406d579dcff7a8813203d32f6c4af15bc4025f14302cd&redirect_url=%2F&meta=eyJraWQiOiJiMDhmN2ZjNWUwNDllOTg3NjNhZThhZTliNTRlN2E5MGY2MDAwZTNiZTNhZGZlYTFjYTY5OWU4ZGYxZGUyZTQ3IiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTcyMDEwOTYwOSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6Ijc1MGMwNmFiOGI5ZWM5YWM0ZGI0MDZkNTc5ZGNmZjdhODgxMzIwM2QzMmY2YzRhZjE1YmM0MDI1ZjE0MzAyY2QiLCJob3N0bmFtZSI6InRhYmxlYXUtZGV2LmluZGVlZC50ZWNoIiwiYXBwX3Nlc3Npb25faGFzaCI6ImFhNTM0MjU1YTUxY2VkODY2MGEzODJhZGYxMDBjMDdlNzY3NjJmNjQzZTNhZmI5ZDczMWI1Y2E4OTExZGMzYjQiLCJuYmYiOjE3MjAxMDk2MDksImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwidHlwZSI6Im1ldGEiLCJyZWRpcmVjdF91cmwiOiJcLyIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfZG4iOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.UD2XJMS_kqo5cwBiYkoPp8UhDuJ-Yif22oWwztS8ykh31xLS16HQabXsXM4C-uS8oIVgU5II4nEijD994cb8iv6g3NVADKwvZxWz1r697BrSNOumBkRsGVeV4Y2QEMpv5RIBfh3AJDHqAZ9KWH3O4dBUvtC0gvde1UB0sCR0waocahEtxj3CxU-WLrLY3mdupavpApW-DEw3mTiuQVticBbF1hUqOK8060BdyOFTZI582Uv7nsmmP9y6GR4fai44CNNTxyy5q_YaraVlSTe8tpNh5XupPmc8phgxo2Zb_rh11kuM3HQuIVKOzzCn1iJdMvBG5onmdb70xrH1pvyhGQ
+< Vary: Accept-Encoding
+< Alt-Svc: h3=":443"; ma=86400
+< Set-Cookie: CF_AppSession=n0026e91ccc1acd74; Expires=Fri, 05 Jul 2024 16:13:29 GMT; Path=/; Secure; HttpOnly
+< Set-Cookie: __cf_bm=pZEqLqjWtRA5pliIuAQjZq8dgL1g2owABL6mHSHct94-1720109609-1.0.1.1-kHR1HJlHDu.5rgwTQPJrL6Zlnz6m1dfT_hk853oQjSQWmkWQDqypJVAf.wZaRx5_yD43E1xqJUnWHNFDOJQRQg; path=/; expires=Thu, 04-Jul-24 16:43:29 GMT; domain=.tableau-dev.indeed.tech; HttpOnly; Secure; SameSite=None
+< Content-Length: 143
+< Expires: Thu, 01 Jan 1970 00:00:01 GMT
+< Server: cloudflare
+< Cf-Ray: 89e06725d8ac3fba-BOM
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< Content-Type: text/html

@@ -1,0 +1,13 @@
+GET https://phoner.indeed.com
+
+
+< HTTP/1.1 302 Found
+< Cf-Cache-Status: DYNAMIC
+< Set-Cookie: __cf_bm=LWsmeAE1_X928PKLZ5haS.sNcWvEFbwFehh0JXiLino-1720109605-1.0.1.1-NJUteVZncttlS3MXYpLwsNds29chORH.xT9Gil_7FWppVmDj0eke6uVo7EYWAf8YK9FFYcmUMZxpRYMUHp.Fgw; path=/; expires=Thu, 04-Jul-24 16:43:25 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Server: cloudflare
+< Date: Thu, 04 Jul 2024 16:13:25 GMT
+< Location: https://phoner.indeed.com/private/poodlepants/
+< Alt-Svc: h3=":443"; ma=86400
+< Content-Length: 0
+< Content-Language: en-US
+< Cf-Ray: 89e067043b2f3d2a-BOM

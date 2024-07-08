@@ -1,0 +1,16 @@
+GET https://agency-staging.indeedflex.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 167
+< Cache-Control: max-age=3600
+< Location: https://flex-agency-us.sandbox.qa.indeed.net/
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< Content-Type: text/html
+< Expires: Thu, 04 Jul 2024 17:13:23 GMT
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=O7n33nYdZOvwWbrDFbmvf42I5r8VibolGIxQ4Y2GDDXw21dksNvKs0i%2B%2FXszDGW6KJpTLF7C0S1CWDX5qci4GTZY9009uVR40%2F9zC68F5339aEpNg7fTSxLh5X7jyhu%2BpLkZKcXLMwsgWTt10tZW"}],"group":"cf-nel","max_age":604800}
+< Vary: Accept-Encoding
+< Server: cloudflare
+< Cf-Ray: 89e067000ec547b0-BOM
+< Date: Thu, 04 Jul 2024 16:13:23 GMT

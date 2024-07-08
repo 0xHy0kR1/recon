@@ -1,0 +1,22 @@
+GET https://partnerships.indeed.com
+
+
+< HTTP/1.1 200 OK
+< Content-Security-Policy: default-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.glassdoor.com/ http://localhost:* https://asmartplace.com/ https://asmartplace.com/work/find-a-job/ http://*.freshbooks.com/ https://*.freshbooks.com/ http://*.adp.com/ https://*.adp.com/ https://*.cs59.force.com/ https://*.force.com/ http://*.indeed.net:* https://*.wpengine.com/ https://*.indeed.com/ https://www.theblackrabbit.com/ https://*.amplifyapp.com https://www.googletagmanager.com/ https://www.google-analytics.com/; style-src 'self' 'unsafe-inline' https://*.glassdoor.com/ http://localhost:* https://asmartplace.com/ https://asmartplace.com/work/find-a-job/ http://*.freshbooks.com/ https://*.freshbooks.com/ http://*.adp.com/ https://*.adp.com/ https://*.cs59.force.com/ https://*.force.com/ http://*.indeed.net:* https://*.wpengine.com/ https://*.indeed.com/ https://www.theblackrabbit.com/ https://*.amplifyapp.com https://www.googletagmanager.com/ https://www.google-analytics.com/;img-src * data: blob: 'unsafe-inline'; frame-src 'self' https://*.glassdoor.com/ http://localhost:* https://asmartplace.com/ https://asmartplace.com/work/find-a-job/ http://*.freshbooks.com/ https://*.freshbooks.com/ http://*.adp.com/ https://*.adp.com/ https://*.cs59.force.com/ https://*.force.com/ http://*.indeed.net:* https://*.wpengine.com/ https://*.indeed.com/ https://www.theblackrabbit.com/ https://*.amplifyapp.com https://www.googletagmanager.com/ https://www.google-analytics.com/; connect-src 'self' https://*.indeed.com https://*.qa.indeed.net https://*.glassdoor.com/ http://localhost:* https://asmartplace.com/ https://asmartplace.com/work/find-a-job/ http://*.freshbooks.com/ https://*.freshbooks.com/ http://*.adp.com/ https://*.adp.com/ https://*.cs59.force.com/ https://*.force.com/ http://*.indeed.net:* https://*.wpengine.com/ https://*.indeed.com/ https://www.theblackrabbit.com/ https://*.amplifyapp.com https://www.googletagmanager.com/ https://www.google-analytics.com/; frame-ancestors 'self' https://partnerships.indeed.com/ https://partnerships.indeed.com/tile https://*.glassdoor.com/ http://localhost:* https://asmartplace.com/ https://asmartplace.com/work/find-a-job/ http://*.freshbooks.com/ https://*.freshbooks.com/ http://*.adp.com/ https://*.adp.com/ https://*.cs59.force.com/ https://*.force.com/ http://*.indeed.net:* https://*.wpengine.com/ https://*.indeed.com/ https://www.theblackrabbit.com/ https://*.amplifyapp.com https://www.googletagmanager.com/ https://www.google-analytics.com/
+< Set-Cookie: __cf_bm=89FiERD7ZD6mJObdbgW9_eqyG.82zVM0OksdlO4TU6s-1720109604-1.0.1.1-9jsu3LtGKB5LbQYTND2NI55W.KYeyvi4eqqkRXmN406.wlY4tdIJUAVU.Q062ZaqPkC1GBJANIsi7lHbs2SYZw; path=/; expires=Thu, 04-Jul-24 16:43:24 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Cf-Ray: 89e067032fd447d2-BOM
+< Content-Type: text/html;charset=utf-8
+< X-Content-Type-Options: nosniff
+< Content-Language: en-US
+< Expires: 0
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+< Server: cloudflare
+< Alt-Svc: h3=":443"; ma=86400
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Vary: Origin
+< Vary: Access-Control-Request-Method
+< Vary: Access-Control-Request-Headers
+< X-Xss-Protection: 1; mode=block
+< Cf-Cache-Status: DYNAMIC

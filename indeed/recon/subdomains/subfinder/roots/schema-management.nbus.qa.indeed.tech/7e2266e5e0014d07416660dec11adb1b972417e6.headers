@@ -1,0 +1,15 @@
+GET https://schema-management.nbus.qa.indeed.tech
+
+
+< HTTP/1.1 403 Forbidden
+< Content-Type: application/json
+< Content-Length: 42
+< X-Amz-Apigw-Id: aZSF5Ew0CYcEi9A=
+< Via: 1.1 85716baaf673552a8010af278e2cf292.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: BOM50-C1
+< Date: Thu, 04 Jul 2024 16:13:25 GMT
+< X-Amzn-Requestid: 162035d0-14f1-4040-b9e8-047cfc75d200
+< X-Amzn-Errortype: MissingAuthenticationTokenException
+< X-Amzn-Trace-Id: Root=1-6686ca25-13c24ca418968d831b588e68
+< X-Cache: Error from cloudfront
+< X-Amz-Cf-Id: sTxlAzYXuV8y_n84_fhRhC1BazUlvx9FJFnbxOsQPJZ6kpWoRQ3wNQ==

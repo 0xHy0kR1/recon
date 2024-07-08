@@ -1,0 +1,8 @@
+GET https://textmaster-webapp-qa.indeed.com
+
+
+< HTTP/1.1 302 Found
+< Content-Language: en-US
+< Location: https://textmaster-webapp-qa.indeed.com/private/poodlepants/
+< Date: Thu, 04 Jul 2024 16:13:25 GMT
+< Content-Length: 0

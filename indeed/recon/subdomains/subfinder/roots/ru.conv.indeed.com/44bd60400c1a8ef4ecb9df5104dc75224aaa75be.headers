@@ -1,0 +1,15 @@
+GET https://ru.conv.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< X-Frame-Options: SAMEORIGIN
+< Cache-Control: max-age=15
+< Expires: Thu, 04 Jul 2024 16:13:44 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: __cf_bm=5D2naMfOHuk0Jgy3AqKyJ4PU.plzUOFzC5VwQzIzS0o-1720109609-1.0.1.1-2Td2UChAkm2nD92H3R6wF3pIp_Vx5XI8i1bhqDL3mStEcBtOvl9poqKCQTVpjJUaWmsHHofmW83bDoJvFXTWnw; path=/; expires=Thu, 04-Jul-24 16:43:29 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Alt-Svc: h3=":443"; ma=86400
+< Server: cloudflare
+< Cf-Ray: 89e067246fca3ae5-BOM
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< Referrer-Policy: same-origin
+< Vary: Accept-Encoding

@@ -1,0 +1,16 @@
+GET https://mechabugs.indeed.com
+
+
+< HTTP/1.1 302 Moved Temporarily
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< Content-Type: text/html
+< Content-Length: 143
+< Set-Cookie: CF_AppSession=nc2993532db0ed19c; Expires=Fri, 05 Jul 2024 16:13:29 GMT; Path=/; Secure; HttpOnly
+< Set-Cookie: __cf_bm=gTHOQxBsoFyPkab4Ew44TBDhQR2y2dXYVMMG72ZXC54-1720109609-1.0.1.1-.dyRY1dIQbxdmpaYmaTJpUxZMcDLE4zI5zz34_rZrOA0pTNtSSH0FkXN25ajFjfP1xDcYhWP.ir2kM9eCX30lw; path=/; expires=Thu, 04-Jul-24 16:43:29 GMT; domain=.mechabugs.indeed.com; HttpOnly; Secure; SameSite=None
+< Expires: Thu, 01 Jan 1970 00:00:01 GMT
+< Server: cloudflare
+< Access-Control-Allow-Credentials: true
+< Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Location: https://indeed.cloudflareaccess.com/cdn-cgi/access/login/mechabugs.indeed.com?kid=164c18fad7b4c5912a31a9bef8e306eae6af1d6b182b82c34098cb49f520a1bd&redirect_url=%2F&meta=eyJraWQiOiJiMDhmN2ZjNWUwNDllOTg3NjNhZThhZTliNTRlN2E5MGY2MDAwZTNiZTNhZGZlYTFjYTY5OWU4ZGYxZGUyZTQ3IiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTcyMDEwOTYwOSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjE2NGMxOGZhZDdiNGM1OTEyYTMxYTliZWY4ZTMwNmVhZTZhZjFkNmIxODJiODJjMzQwOThjYjQ5ZjUyMGExYmQiLCJob3N0bmFtZSI6Im1lY2hhYnVncy5pbmRlZWQuY29tIiwiYXBwX3Nlc3Npb25faGFzaCI6Ijc5YTZlNmNhZmE5OTc3ZTJjNzVjNDE3MWVmNGYwYzcwMWYwZGUzYjdmNTRhMDE4ZTBlY2QxMzE4MTUwYTQ3ODciLCJuYmYiOjE3MjAxMDk2MDksImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwidHlwZSI6Im1ldGEiLCJyZWRpcmVjdF91cmwiOiJcLyIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfZG4iOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.Xtc5QJ9lH_sBNPVvXEPhh2SL-B9xMQ9OQZ_UO_zjDhSkMPLdveqb8GAC89JYt8K6l7yuuCe4UNq3MqLVZNFPAYI4-RNqbKE6DWvuMV3isugF8vyx467R0CseL6-OV7pg9fg89sy-yhXCh1uSGU4CsJAPdIhXxRZKaSLzznCYAeOrkPYDBnPAV8y3FWvq81uMvivY59CGZFh2TJ-XNVxgAw8EVTwkR-h_Lw6hf0RmpP_rB7OccUwuvxdwUJ1La3Bf79C9p6Hfu4lGRLwBm6lCjH5Ni-jv7_k6o5uFffI2GgV--pZpIROinlyn_peTuXB4ZpljDimCAybEtsRL-ItSrQ
+< Vary: Accept-Encoding
+< Cf-Ray: 89e06720bd4ef476-BOM

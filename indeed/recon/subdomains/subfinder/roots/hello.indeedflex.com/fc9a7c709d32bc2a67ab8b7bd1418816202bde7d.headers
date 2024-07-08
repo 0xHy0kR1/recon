@@ -1,0 +1,11 @@
+GET https://hello.indeedflex.com
+
+
+< HTTP/1.1 204 No Content
+< Cf-Cache-Status: DYNAMIC
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Ovql6quBBtnxv8R4lBQkCxcvWI4TIWR7xEUGfcfeNcNKAsOdsZbzFq6jPF6%2BEAshRNXH4Gqsu88Yrz2aIOxAS5Ygzei0eAsW4%2BoIdtD238EM%2BjYdXs2%2F1dqaEg5perruL8jhbcTt"}],"group":"cf-nel","max_age":604800}
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< Server: cloudflare
+< Cf-Ray: 89e066fef9ab3fa8-BOM
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Strict-Transport-Security: max-age=2592000; includeSubDomains

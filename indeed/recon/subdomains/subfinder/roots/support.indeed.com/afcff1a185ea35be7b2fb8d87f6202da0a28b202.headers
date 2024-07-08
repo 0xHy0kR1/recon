@@ -1,0 +1,22 @@
+GET https://support.indeed.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=utf-8
+< X-Ua-Compatible: IE=edge
+< X-Request-Id: 89e06705694547bc-BOM
+< Server: cloudflare
+< X-Zendesk-Processed-Host-Header: support.indeed.com
+< Strict-Transport-Security: max-age=259200; includeSubDomains
+< Set-Cookie: _help_center_session=SFRjbmJFVlBMMkJiVjZhN212VDgwV1pPaTN6SXlYZ2pKdmFWVmtvWWtjRHd2Q0RIZHVLRXZQdmkzMlIxR21LbEJKVmJ3K3RSRERjc214eHE5bndzdGc9PS0tcFdOcHFrZ1Y3TStWZFQ3OW9GUkVwdz09--f3a194bfc05f816ddbaa081354cb137a62130d1d; path=/; secure; HttpOnly; SameSite=None
+< Set-Cookie: __cfruid=43775fdfa942903c3d114c6ed4e0ff0482657275-1720109604; path=/; domain=.support.indeed.com; HttpOnly; Secure; SameSite=None
+< X-Runtime: 0.022158
+< X-Zendesk-Zorg: yes
+< X-Zendesk-Origin-Server: app-server-7b84c99cff-jjsxt
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=V2tdEf6p4CDC756Ald%2FJ1q1LRIibr6z8u%2BBFGrXgh1Nno8uAWGFJJMQO45we9XulQYBuvYh%2B1UEZJfNBbTvghycemawt5J6j9wDZwTejZpUBOr55G9cwajaev2mcVGXPW7GRuA%3D%3D"}],"group":"cf-nel","max_age":604800}
+< Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+< Cf-Ray: 89e06705694547bc-BOM
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Location: https://support.indeed.com/hc
+< Cache-Control: no-cache
+< Cf-Cache-Status: DYNAMIC

@@ -1,0 +1,16 @@
+GET https://agency.indeedflex.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html; charset=utf-8
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< Server: cloudflare
+< Cf-Ray: 89e0671f1e07f3e5-BOM
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=alm63z5nKFJXhGXYTIt2JH4Cw2e76hV7ysDcYb3mbQ%2FFA3hTaH6kf99RBAx9oTEkrqUO69HqTNRUoh7U4uWTrWuVeaPQr8DvdG6SuE%2F0MAJfUYe8EfyFu5matkKNq3dgoK%2BdsdLbqA%3D%3D"}],"group":"cf-nel","max_age":604800}
+< Set-Cookie: CTK=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT; secure; httponly
+< Set-Cookie: indeed_rcc=CTK; path=/; expires=Tue, 03 Jul 2029 16:13:29 GMT; domain=indeedflex.com; samesite=none; secure
+< Set-Cookie: CTK=1i1v8bcjjhb3qavh; path=/; expires=Tue, 03 Jul 2029 16:13:29 GMT; domain=indeedflex.com; samesite=none; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< Cf-Cache-Status: DYNAMIC

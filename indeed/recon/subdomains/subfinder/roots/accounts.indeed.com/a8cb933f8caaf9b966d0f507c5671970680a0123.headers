@@ -1,0 +1,12 @@
+GET https://accounts.indeed.com
+
+
+< HTTP/1.1 302 Found
+< Vary: Origin
+< Vary: Access-Control-Request-Method
+< Vary: Access-Control-Request-Headers
+< Vary: Accept-Encoding
+< Date: Thu, 04 Jul 2024 16:13:25 GMT
+< Location: https://secure.indeed.com/account/login?continue=https%3A%2F%2Faccounts.indeed.com%2F
+< Set-Cookie: CTK=; Max-Age=0; Path=/; Secure; SameSite=None
+< Set-Cookie: CTK=1i1v8b8gf236n001; Domain=.indeed.com; Max-Age=157680000; Path=/; Secure; SameSite=None

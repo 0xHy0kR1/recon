@@ -1,0 +1,9 @@
+GET https://jp.engineering.indeed.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: nginx
+< Date: Thu, 04 Jul 2024 16:13:25 GMT
+< Content-Type: text/html
+< Content-Length: 162
+< Location: http://jp.engineering.indeedblog.com/

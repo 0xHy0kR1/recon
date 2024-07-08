@@ -1,0 +1,17 @@
+GET https://flex-core-demo-uk.indeed.com
+
+
+< HTTP/1.1 302 Found
+< X-Runtime: 0.013301
+< Strict-Transport-Security: max-age=63072000; includeSubDomains
+< Vary: Accept-Encoding, Origin
+< X-Content-Type-Options: nosniff
+< X-Permitted-Cross-Domain-Policies: none
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< Location: https://flex-core-demo-uk.indeed.com/api/v2
+< Cache-Control: no-cache
+< X-Request-Id: 30f089dc-6853-4c92-a46f-4e2aba0af9b2
+< X-Xss-Protection: 0
+< X-Frame-Options: SAMEORIGIN
+< Referrer-Policy: strict-origin-when-cross-origin
+< Content-Type: text/html; charset=utf-8

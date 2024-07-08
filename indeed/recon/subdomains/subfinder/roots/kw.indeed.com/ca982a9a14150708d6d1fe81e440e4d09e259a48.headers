@@ -1,0 +1,15 @@
+GET https://kw.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Vary: Accept-Encoding
+< Alt-Svc: h3=":443"; ma=86400
+< X-Frame-Options: SAMEORIGIN
+< Cache-Control: max-age=15
+< Expires: Thu, 04 Jul 2024 16:13:39 GMT
+< Set-Cookie: __cf_bm=Cwv.Ulonj.Ns877ygrv7SMPScyFYyf3SMPeSr33ZUZY-1720109604-1.0.1.1-Lvp5IAT44iVFkDFwHnUqqm9mirgyh4R8wd9a0gN8GOzeHloVxHX25UJKfNJMx41tarinoqnjkBJdnP3yt9VwPg; path=/; expires=Thu, 04-Jul-24 16:43:24 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Referrer-Policy: same-origin
+< Server: cloudflare
+< Content-Type: text/html; charset=UTF-8
+< Cf-Ray: 89e067043f734728-BOM

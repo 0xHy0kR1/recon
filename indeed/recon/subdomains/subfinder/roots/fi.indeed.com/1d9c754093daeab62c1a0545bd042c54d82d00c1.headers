@@ -1,0 +1,15 @@
+GET https://fi.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: max-age=15
+< Server: cloudflare
+< Expires: Thu, 04 Jul 2024 16:13:43 GMT
+< Alt-Svc: h3=":443"; ma=86400
+< Date: Thu, 04 Jul 2024 16:13:28 GMT
+< Referrer-Policy: same-origin
+< Set-Cookie: __cf_bm=.1gLhWqzkVqmMjDltHeIBMP1hrEqW.u8OAEki8W_Wok-1720109608-1.0.1.1-ypIuz8EsHuPxjVSCF6zarZg9BK_AioFV62QeotVT74xLcf0Kv6YYHsEwqFImSXwMUEJHiYbqirFwOTxaWUURVA; path=/; expires=Thu, 04-Jul-24 16:43:28 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< X-Frame-Options: SAMEORIGIN
+< Vary: Accept-Encoding
+< Cf-Ray: 89e0671f2c733ae5-BOM

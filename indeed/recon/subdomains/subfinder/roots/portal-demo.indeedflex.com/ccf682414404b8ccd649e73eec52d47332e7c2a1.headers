@@ -1,0 +1,16 @@
+GET https://portal-demo.indeedflex.com
+
+
+< HTTP/1.1 200 OK
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Content-Type: text/html; charset=utf-8
+< Cf-Cache-Status: DYNAMIC
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< Server: cloudflare
+< Set-Cookie: CTK=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT; secure; httponly
+< Set-Cookie: indeed_rcc=CTK; path=/; expires=Tue, 03 Jul 2029 16:13:24 GMT; domain=indeedflex.com; samesite=none; secure
+< Set-Cookie: CTK=1i1v8b7ojgs9keg1; path=/; expires=Tue, 03 Jul 2029 16:13:24 GMT; domain=indeedflex.com; samesite=none; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=ZD%2FI9yJUi8h8yxnGnh82mR6a9Y0aVfGJUIoHIRVuhiXyUmziA1BxGGHITJ%2FWAUw6zsnkaYM3GBuObO%2BkRzNSstWMALZUQm7UR1imxTbf81kNii5nmrAdJdoTSp8j%2FFSws3vVSj28CqJVd7NL"}],"group":"cf-nel","max_age":604800}
+< Cf-Ray: 89e0670019693b01-BOM

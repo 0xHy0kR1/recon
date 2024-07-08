@@ -1,0 +1,17 @@
+GET https://resumejp.indeed.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: CTK=; Max-Age=0; Path=/; Secure; SameSite=None
+< Set-Cookie: CTK=1i1v8bc5vieee801; Domain=.indeed.com; Max-Age=157680000; Path=/; Secure; SameSite=None
+< Set-Cookie: INDEED_CSRF_TOKEN=ZBcIq8l7XMmxt2IN2cRA461wTAoz5tcL; Path=/; Secure; HttpOnly
+< Set-Cookie: __cf_bm=BdwrLiqkOrwQRPHqIPC5Ip.laiciHcVX2DRpnlR0oqo-1720109609-1.0.1.1-ayA5ZnnVkQ4lCdwJyxqLIuMFM.Mrw15F2n0Dimvz26PYZCI24MTaZo3dwH5rEdaLmupkowLHSA12T.Ea0iKCoA; path=/; expires=Thu, 04-Jul-24 16:43:29 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Vary: Accept-Encoding
+< Server: cloudflare
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< Access-Control-Allow-Origin: https://secure.indeed.com
+< Content-Language: en-US
+< Cf-Ray: 89e0671e2e6f3f42-BOM
+< Location: https://profile.indeed.com/build?hl=ja_JP&co=JP&from=resumejp
+< Cf-Cache-Status: DYNAMIC
+< Alt-Svc: h3=":443"; ma=86400

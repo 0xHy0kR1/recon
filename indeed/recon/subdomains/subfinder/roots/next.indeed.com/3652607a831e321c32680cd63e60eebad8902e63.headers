@@ -1,0 +1,15 @@
+GET https://next.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Alt-Svc: h3=":443"; ma=86400
+< Cache-Control: max-age=15
+< Cf-Ray: 89e0670568ba3cac-BOM
+< X-Frame-Options: SAMEORIGIN
+< Vary: Accept-Encoding
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Expires: Thu, 04 Jul 2024 16:13:39 GMT
+< Server: cloudflare
+< Referrer-Policy: same-origin
+< Set-Cookie: __cf_bm=co6gV2EP1VDqVDS0SnWnxgwxc8zLaU7O_3mPhVFJga4-1720109604-1.0.1.1-bN0Q4FJYSzRqF1E0KwCSA__qdfvkzGxZmJb1Wpz2K1OI_VaNUAVx4beQWtEfQ4gJQJ.pR6UZUf09OzP3EDvIVQ; path=/; expires=Thu, 04-Jul-24 16:43:24 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Content-Type: text/html; charset=UTF-8

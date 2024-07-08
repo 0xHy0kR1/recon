@@ -1,0 +1,22 @@
+GET https://tableau-stage.indeed.tech
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< P3p: CP="NON"
+< Pragma: no-cache
+< Etag: "504-616f3dbdfb880-gzip"
+< X-Content-Type-Options: nosniff
+< X-Xss-Protection: 1; mode=block
+< Last-Modified: Thu, 25 Apr 2024 23:08:02 GMT
+< X-Tableau: Tableau Server
+< Server: Tableau
+< Cache-Control: no-cache, no-store, must-revalidate
+< X-Ua-Compatible: IE=Edge
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Security-Policy-Report-Only: connect-src * https://*.tiles.mapbox.com https://api.mapbox.com; default-src blob:; font-src * data:; frame-src * data: tableau-desktop:; img-src * data: blob:; object-src data:; report-uri /vizql/csp-report; script-src * blob: 'wasm-unsafe-eval'; style-src * 'unsafe-inline'
+< Date: Thu, 04 Jul 2024 16:13:30 GMT
+< Content-Type: text/html; charset=utf-8
+< X-Frame-Options: SAMEORIGIN
+< Expires: -1
+< Vary: X-Forwarded-Proto,Accept-Encoding

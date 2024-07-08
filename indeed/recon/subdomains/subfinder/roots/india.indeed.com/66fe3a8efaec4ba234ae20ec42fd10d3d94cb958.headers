@@ -1,0 +1,15 @@
+GET https://india.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: max-age=15
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Set-Cookie: __cf_bm=hWbMJWwP_0Q.JMbE_vFj4KPQmFq0mjmGcIkgG8tlD4k-1720109604-1.0.1.1-o7qnzOZRcMEnx8SQZTHKAqJgASwq9D3GdMtS.aefOSbGN0FHv.hEVEYiw_joDG7Jnj01PaJVMmwAkzKiDq57Gw; path=/; expires=Thu, 04-Jul-24 16:43:24 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Server: cloudflare
+< Cf-Ray: 89e06705d83f84b3-BOM
+< X-Frame-Options: SAMEORIGIN
+< Referrer-Policy: same-origin
+< Vary: Accept-Encoding
+< Expires: Thu, 04 Jul 2024 16:13:39 GMT
+< Alt-Svc: h3=":443"; ma=86400

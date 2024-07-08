@@ -1,0 +1,15 @@
+GET https://resumes.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< Alt-Svc: h3=":443"; ma=86400
+< X-Frame-Options: SAMEORIGIN
+< Referrer-Policy: same-origin
+< Set-Cookie: __cf_bm=H5qZs3Wpvqf6a_E3Xan5nbOaOaQRVVPUFT6sd5Fhjtk-1720109609-1.0.1.1-_1.ykYELv.tK3iaxZbzQQES2UM9cjJGSBjjCkANSk0USXrg8aoYV9fy9KdxIQuwdgTOmBL8_w.BOVxTtCTfIsw; path=/; expires=Thu, 04-Jul-24 16:43:29 GMT; domain=.resumes.indeed.com; HttpOnly; Secure; SameSite=None
+< Vary: Accept-Encoding
+< Server: cloudflare
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: max-age=15
+< Expires: Thu, 04 Jul 2024 16:13:44 GMT
+< Cf-Ray: 89e067226b3085d8-BOM

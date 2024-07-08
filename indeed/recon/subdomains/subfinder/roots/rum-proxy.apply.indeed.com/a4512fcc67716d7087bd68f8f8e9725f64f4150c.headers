@@ -1,0 +1,15 @@
+GET https://rum-proxy.apply.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< Content-Type: text/html; charset=UTF-8
+< Server: cloudflare
+< Referrer-Policy: same-origin
+< Expires: Thu, 04 Jul 2024 16:13:44 GMT
+< Set-Cookie: __cf_bm=eKcMAcD2zAFj0GBDUFqk32jTMjnOTJwsbjMNIu978v4-1720109609-1.0.1.1-g.sTqh8gFOmGPqjar1HbNUx1yV6wf78IXwrqLIXJXLUdKjYPYpJ3Jzo31bp3iafBbOoRwKSlsMabW58xxMuo7A; path=/; expires=Thu, 04-Jul-24 16:43:29 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< X-Frame-Options: SAMEORIGIN
+< Cache-Control: max-age=15
+< Vary: Accept-Encoding
+< Cf-Ray: 89e0672468fbf3e1-BOM
+< Alt-Svc: h3=":443"; ma=86400

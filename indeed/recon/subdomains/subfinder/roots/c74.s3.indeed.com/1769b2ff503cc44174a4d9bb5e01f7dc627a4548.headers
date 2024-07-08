@@ -1,0 +1,14 @@
+GET https://c74.s3.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Content-Type: application/xml
+< X-Amz-Bucket-Region: ap-northeast-1
+< X-Amz-Request-Id: GZ5HCX024T5N1SG0
+< X-Amz-Id-2: kk7rh/KLfi9UlrDboedXojmdcjzMY4tEMUISYZ0XKzOevLR88VZrzlQR4wkV2JenVlo9YO9Md7g=
+< Via: 1.1 7d97a5cf47241c4d2dc51bea5c6e4056.cloudfront.net (CloudFront)
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Server: AmazonS3
+< X-Cache: Error from cloudfront
+< X-Amz-Cf-Pop: BOM78-P2
+< X-Amz-Cf-Id: sDKZxOXjp4B4fVbuGj-YZi5yUpbKi0yxniMYIi_Xv_F8oYQDInnkRw==

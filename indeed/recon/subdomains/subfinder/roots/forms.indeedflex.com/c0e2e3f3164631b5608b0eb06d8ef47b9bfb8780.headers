@@ -1,0 +1,27 @@
+GET https://forms.indeedflex.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+< Content-Security-Policy-Report-Only: default-src https: data: blob: wss: 'unsafe-inline' 'unsafe-eval'; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jotfor.ms; report-uri /opt/csp-violation-report.php
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 0
+< X-Form-Cache: MISS-APP
+< Via: 1.1 google
+< Server: nginx
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Content-Type: text/html; charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:01 GMT
+< X-Frame-Options: SAMEORIGIN
+< X-Xss-Protection: 1; mode=block
+< Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+< Last-Modified: Thu, 04 Jul 2024 16:13:24 GMT
+< Jf-Trace-Id: e6c4d15f2ab11791
+< Strict-Transport-Security: max-age=31536000
+< Set-Cookie: ENTERPRISE_SESSION=784591db-abd6-5d33-d4cd-77e01bb0; expires=Sat, 03 Aug 2024 16:13:24 GMT; Max-Age=2592000; path=/; domain=.forms.indeedflex.com; secure; HttpOnly; SameSite=None
+< Set-Cookie: guest=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; domain=.jotform.com; secure; HttpOnly; SameSite=None
+< Set-Cookie: guest=guest_7e2d29a8bc0cf603; expires=Sun, 04 Aug 2024 16:13:24 GMT; Max-Age=2678400; path=/; domain=.forms.indeedflex.com; secure; HttpOnly; SameSite=None
+< Set-Cookie: guest=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; domain=.jotform.com; secure; HttpOnly; SameSite=None
+< Set-Cookie: guest=guest_d96b0790b392ead2; expires=Sun, 04 Aug 2024 16:13:24 GMT; Max-Age=2678400; path=/; domain=.forms.indeedflex.com; secure; HttpOnly; SameSite=None
+< Location: /login

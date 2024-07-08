@@ -1,0 +1,15 @@
+GET https://zoominfo.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Cf-Ray: 89e06700aefd446f-BOM
+< Expires: Thu, 04 Jul 2024 16:13:38 GMT
+< Set-Cookie: __cf_bm=FIaPBE0347m41VnD7yuhWwDha4x8_ZyGUnnizd_gLus-1720109603-1.0.1.1-6Vg0E9sZvOGUhwZX_.dHlxc3vbVrEBEnFW9mUKXFTquG7vyDw0bG.2FyW_qd6o36.zlBPOd1XdxELRUf3HaWdQ; path=/; expires=Thu, 04-Jul-24 16:43:23 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Vary: Accept-Encoding
+< Server: cloudflare
+< Date: Thu, 04 Jul 2024 16:13:23 GMT
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: same-origin
+< X-Frame-Options: SAMEORIGIN
+< Cache-Control: max-age=15
+< Alt-Svc: h3=":443"; ma=86400

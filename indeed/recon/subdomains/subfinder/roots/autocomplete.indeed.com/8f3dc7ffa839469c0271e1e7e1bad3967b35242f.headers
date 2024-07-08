@@ -1,0 +1,16 @@
+GET https://autocomplete.indeed.com
+
+
+< HTTP/1.1 302 Found
+< Date: Thu, 04 Jul 2024 16:13:28 GMT
+< Content-Length: 0
+< Vary: Origin
+< Vary: Access-Control-Request-Method
+< Vary: Access-Control-Request-Headers
+< Server: cloudflare
+< Alt-Svc: h3=":443"; ma=86400
+< Location: https://autocomplete.indeed.com/private/poodlepants/
+< Content-Language: en-US
+< Cf-Cache-Status: DYNAMIC
+< Set-Cookie: __cf_bm=44ypYx._qgOLXoddmXflzGmthBMGsJNNiQi2I4iTvOU-1720109608-1.0.1.1-5GPRWaemCOAKTyrXU8.w11Z5XWBjmORedwKqfSRAYq1ooXAkpWizeUcnFN2g8PSSOkNCH.cMQoQaHcTS2rfvFQ; path=/; expires=Thu, 04-Jul-24 16:43:28 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Cf-Ray: 89e0671ebd823c58-BOM

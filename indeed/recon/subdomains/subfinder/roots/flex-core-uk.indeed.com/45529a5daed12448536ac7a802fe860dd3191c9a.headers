@@ -1,0 +1,17 @@
+GET https://flex-core-uk.indeed.com
+
+
+< HTTP/1.1 302 Found
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Referrer-Policy: strict-origin-when-cross-origin
+< Cache-Control: no-cache
+< Vary: Accept-Encoding, Origin
+< X-Xss-Protection: 0
+< X-Content-Type-Options: nosniff
+< X-Permitted-Cross-Domain-Policies: none
+< X-Request-Id: 6433426d-9d67-4c06-8e3b-fce58d210e01
+< X-Runtime: 0.014883
+< Strict-Transport-Security: max-age=63072000; includeSubDomains
+< Content-Type: text/html; charset=utf-8
+< X-Frame-Options: SAMEORIGIN
+< Location: https://flex-core-uk.indeed.com/api/v2

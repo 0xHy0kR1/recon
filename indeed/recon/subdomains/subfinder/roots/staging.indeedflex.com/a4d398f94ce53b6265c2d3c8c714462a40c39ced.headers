@@ -1,0 +1,18 @@
+GET https://staging.indeedflex.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html;charset=ISO-8859-1
+< Server: nginx
+< X-Okta-Request-Id: ZobKJB3wSxPIsjZtHkOXLQAAAgY
+< X-Xss-Protection: 0
+< P3p: CP="HONK"
+< Content-Length: 0
+< Content-Security-Policy: default-src 'self' indeedstaging.oktapreview.com staging.indeedflex.com *.oktacdn.com; connect-src 'self' indeedstaging.oktapreview.com indeedstaging-admin.oktapreview.com staging.indeedflex.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.oktapreview.com indeedstaging.kerberos.oktapreview.com indeedstaging.mtls.oktapreview.com *.authenticatorlocalprod.com:8769 http://localhost:8769 http://127.0.0.1:8769 *.authenticatorlocalprod.com:65111 http://localhost:65111 http://127.0.0.1:65111 *.authenticatorlocalprod.com:65121 http://localhost:65121 http://127.0.0.1:65121 *.authenticatorlocalprod.com:65131 http://localhost:65131 http://127.0.0.1:65131 *.authenticatorlocalprod.com:65141 http://localhost:65141 http://127.0.0.1:65141 *.authenticatorlocalprod.com:65151 http://localhost:65151 http://127.0.0.1:65151 https://oinmanager.okta.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' indeedstaging.oktapreview.com staging.indeedflex.com *.oktacdn.com; style-src 'unsafe-inline' 'self' indeedstaging.oktapreview.com staging.indeedflex.com *.oktacdn.com; frame-src 'self' indeedstaging.oktapreview.com indeedstaging-admin.oktapreview.com staging.indeedflex.com login.okta.com *.vidyard.com com-okta-authenticator:; img-src 'self' indeedstaging.oktapreview.com staging.indeedflex.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' indeedstaging.oktapreview.com staging.indeedflex.com data: *.oktacdn.com fonts.gstatic.com; frame-ancestors 'self'
+< Set-Cookie: sid="";Version=1;Path=/;Max-Age=0
+< Set-Cookie: autolaunch_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< X-Content-Type-Options: nosniff
+< Location: https://staging.indeedflex.com/app/UserHome?iss=https%3A%2F%2Fstaging.indeedflex.com&session_hint=AUTHENTICATED
+< Strict-Transport-Security: max-age=315360000; includeSubDomains
+< X-Robots-Tag: noindex,nofollow

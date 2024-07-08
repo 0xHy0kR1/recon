@@ -1,0 +1,15 @@
+GET https://ewa.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Vary: Accept-Encoding
+< Date: Thu, 04 Jul 2024 16:13:28 GMT
+< Cf-Ray: 89e0671f1c4d41a5-BOM
+< X-Frame-Options: SAMEORIGIN
+< Cache-Control: max-age=15
+< Set-Cookie: __cf_bm=w20qOJPwspPVOa8M6Gd_fx4F0gxTreGQx57jkJOAGk0-1720109608-1.0.1.1-BM5KesAY3vdP.fcwlF3TqZbPsS8OIh4QBk1cJsY191RKFsVEjPXPeyeaBhXWnmKdL8Ry.2SOqUnWvIRXcZvteQ; path=/; expires=Thu, 04-Jul-24 16:43:28 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Server: cloudflare
+< Alt-Svc: h3=":443"; ma=86400
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: same-origin
+< Expires: Thu, 04 Jul 2024 16:13:43 GMT

@@ -1,0 +1,15 @@
+GET https://pdxprod1.apply.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Cache-Control: max-age=15
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: same-origin
+< Set-Cookie: __cf_bm=EZy0hD.4jqihC77U1s2AzqMmbiWcz88Ajg4q5B486zc-1720109605-1.0.1.1-ZDZKLNqy4U0TRomZrOipeLSSQvHcEGoJqj7vb2533aiJhasX4ORpHwsN0wTKztusmSvbqr_jaS8Se2EMd.iAAQ; path=/; expires=Thu, 04-Jul-24 16:43:25 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Vary: Accept-Encoding
+< Server: cloudflare
+< Cf-Ray: 89e06707a8df3a48-BOM
+< Date: Thu, 04 Jul 2024 16:13:25 GMT
+< Expires: Thu, 04 Jul 2024 16:13:40 GMT
+< Alt-Svc: h3=":443"; ma=86400
+< X-Frame-Options: SAMEORIGIN

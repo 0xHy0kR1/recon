@@ -1,0 +1,17 @@
+GET https://flex-core-us.indeed.com
+
+
+< HTTP/1.1 302 Found
+< X-Permitted-Cross-Domain-Policies: none
+< Referrer-Policy: strict-origin-when-cross-origin
+< Vary: Accept-Encoding, Origin
+< Content-Type: text/html; charset=utf-8
+< X-Content-Type-Options: nosniff
+< Location: https://flex-core-us.indeed.com/api/v2
+< X-Request-Id: 5dfe7f23-527e-41d5-b48a-005b9755fadd
+< X-Runtime: 0.015945
+< X-Frame-Options: SAMEORIGIN
+< Strict-Transport-Security: max-age=63072000; includeSubDomains
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< X-Xss-Protection: 0
+< Cache-Control: no-cache

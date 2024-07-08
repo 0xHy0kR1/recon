@@ -1,0 +1,16 @@
+GET https://portal-staging.indeedflex.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=f2FgwIqC07aPFta9gyNKqFwCfxQW0iAJAA%2BdtwBIVXyFlRJUp5ANUvqLlEGjkUjFtKLhQ4jIwt8%2F4gW47CawvVzhX0R7KrX9VPPHvvjb%2BrIsY3k11d7e%2FT16DB3ZmQBkMiPs%2F3aTx9U7i0hSR0sB"}],"group":"cf-nel","max_age":604800}
+< Vary: Accept-Encoding
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< Server: cloudflare
+< Date: Thu, 04 Jul 2024 16:13:28 GMT
+< Content-Type: text/html
+< Expires: Thu, 04 Jul 2024 17:13:28 GMT
+< Location: https://flex-portal-us.sandbox.qa.indeed.net/
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< Cf-Ray: 89e0671e9a9147c6-BOM
+< Content-Length: 167
+< Cache-Control: max-age=3600

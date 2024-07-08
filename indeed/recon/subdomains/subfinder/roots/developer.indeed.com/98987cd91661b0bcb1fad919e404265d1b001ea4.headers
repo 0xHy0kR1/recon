@@ -1,0 +1,12 @@
+GET https://developer.indeed.com
+
+
+< HTTP/1.1 302 Found
+< Location: https://developer.indeed.com/o/
+< Date: Thu, 04 Jul 2024 16:13:30 GMT
+< Content-Length: 93
+< Vary: Accept-Encoding
+< Content-Type: text/html; charset=utf-8
+< Set-Cookie: CTK=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT; secure; httponly
+< Set-Cookie: indeed_rcc=CTK; path=/; expires=Tue, 03 Jul 2029 16:13:30 GMT; domain=.indeed.com; samesite=none; secure
+< Set-Cookie: CTK=1i1v8bd6qgkfi801; path=/; expires=Tue, 03 Jul 2029 16:13:30 GMT; domain=.indeed.com; samesite=none; secure

@@ -1,0 +1,13 @@
+GET https://kimoyo.indeed.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: CTK=; Max-Age=0; Path=/; Secure; SameSite=None
+< Set-Cookie: CTK=1i1v8bdiblqbq800; Domain=.indeed.com; Max-Age=157680000; Path=/; Secure; SameSite=None
+< Location: https://kimoyo.indeed.com/private/poodlepants/
+< Date: Thu, 04 Jul 2024 16:13:30 GMT
+< Content-Length: 0
+< Vary: Origin
+< Vary: Access-Control-Request-Method
+< Vary: Access-Control-Request-Headers
+< Content-Language: en-US

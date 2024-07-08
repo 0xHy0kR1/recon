@@ -1,0 +1,17 @@
+GET https://media-assets.indeedflex.com
+
+
+< HTTP/1.1 403 Forbidden
+< X-Amz-Bucket-Region: us-east-2
+< Via: 1.1 19dd52ecb09ffed9da73592301bd3414.cloudfront.net (CloudFront)
+< Strict-Transport-Security: max-age=2592000; includeSubDomains
+< X-Amz-Cf-Id: hEaPtYfRuoHt5t9gmIhtYMrDg5RLWJ5yfb6y2iRIEeJUCSlHXwYlgg==
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< Cf-Cache-Status: DYNAMIC
+< Server: cloudflare
+< Cf-Ray: 89e0670109cf1be6-BOM
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=MXL154MOYDvIAhnTBKMe4i0%2BRf%2Feq%2FC04qVz9LEsHKAjOtC%2BUDwbncHReqXpGFOElklfnQ9hj4qjSfFfY%2BZWxTMi5szw1vFzL6gzlY0l3IhtHXO%2Bk8qhRnIX%2BCAGWWXlUvUXNAJw4QEzNoGM8g%3D%3D"}],"group":"cf-nel","max_age":604800}
+< Date: Thu, 04 Jul 2024 16:13:24 GMT
+< Content-Type: application/xml
+< X-Cache: Error from cloudfront
+< X-Amz-Cf-Pop: BOM78-P9

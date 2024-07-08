@@ -1,0 +1,15 @@
+GET https://conv.indeed.com
+
+
+< HTTP/1.1 403 Forbidden
+< Vary: Accept-Encoding
+< Alt-Svc: h3=":443"; ma=86400
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: same-origin
+< Expires: Thu, 04 Jul 2024 16:13:44 GMT
+< Set-Cookie: __cf_bm=4TqkU.ogu.o5lixNNfumlMNlcsquRgoDjlR32UfJ23w-1720109609-1.0.1.1-o5i1T2tjIIibS4V0SKSh_4j4AMr_A7H3NQpeaUrJUI0NV.vfJzR6Kl7scG3ZA7AtiVy9LgTE64H_S3np9rjP4A; path=/; expires=Thu, 04-Jul-24 16:43:29 GMT; domain=.indeed.com; HttpOnly; Secure; SameSite=None
+< Server: cloudflare
+< Date: Thu, 04 Jul 2024 16:13:29 GMT
+< Cache-Control: max-age=15
+< Cf-Ray: 89e06721df663c28-BOM
+< X-Frame-Options: SAMEORIGIN
